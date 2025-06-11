@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tecmo Super Bowl - Accessible Web Version</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="nes_emulator.js"></script>
+  <script src="screen_reader.js" defer></script>
+  <link rel="stylesheet" href="controls.css">
+</head>
+<body>
+  <h1 id="game-title">Tecmo Super Bowl</h1>
+  <div id="nes-container" role="main">
+    <canvas id="nes-canvas" width="256" height="240" aria-label="Game screen"></canvas>
+  </div>
+  <div id="controls" role="region" aria-label="Touchscreen controls">
+    <button aria-label="Button A" onclick="pressButton('A')">A</button>
+    <button aria-label="Button B" onclick="pressButton('B')">B</button>
+    <button aria-label="Start" onclick="pressButton('START')">Start</button>
+    <button aria-label="Select" onclick="pressButton('SELECT')">Select</button>
+    <button aria-label="Up" onclick="pressButton('UP')">↑</button>
+    <button aria-label="Down" onclick="pressButton('DOWN')">↓</button>
+    <button aria-label="Left" onclick="pressButton('LEFT')">←</button>
+    <button aria-label="Right" onclick="pressButton('RIGHT')">→</button>
+    <button aria-label="Save State" onclick="saveState()">💾 Save</button>
+    <button aria-label="Load State" onclick="loadState()">📂 Load</button>
+  </div>
+  <div id="screen-reader-output" aria-live="polite" style="position:absolute; left:-9999px;"></div>
+</body>
+</html>
