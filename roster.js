@@ -1,15 +1,9 @@
-fetch('teams.json')
-  .then(response => response.json())
-  .then(data => {
-    const rosterDiv = document.getElementById('roster');
-    data.forEach(team => {
-      const teamName = document.createElement('h2');
-      teamName.textContent = team.teamName;
-      rosterDiv.appendChild(teamName);
-      team.players.forEach(player => {
-        const p = document.createElement('p');
-        p.textContent = `${player.name} - ${player.position} - Rating: ${player.rating}`;
-        rosterDiv.appendChild(p);
-      });
-    });
+fetch('teams.json').then(r=>r.json()).then(data=>{
+ let div=document.getElementById('rosters');
+ data.forEach(t=>{
+  let h=document.createElement('h2');h.textContent=t.teamName;div.appendChild(h);
+  t.players.forEach(p=>{
+    let pEl=document.createElement('p');pEl.textContent=`${p.name} - ${p.position} - Rating ${p.rating}`;
+    div.appendChild(pEl);
   });
+ });});
