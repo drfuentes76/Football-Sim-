@@ -1,741 +1,1059 @@
 [
   {
-    "teamName": "Storm Hawks",
+    "teamName": "Storm Wolves",
     "abbreviation": "T01",
     "players": [
       {
-        "name": "Morgan Blaze",
-        "position": "WR",
-        "rating": 70
-      },
-      {
-        "name": "Alex Ridge",
-        "position": "OL",
-        "rating": 74
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "LB",
-        "rating": 66
-      },
-      {
-        "name": "Taylor Stone",
+        "name": "Casey Frost",
         "position": "S",
-        "rating": 80
+        "rating": 76
       },
       {
-        "name": "Taylor Swift",
-        "position": "TE",
-        "rating": 84
-      },
-      {
-        "name": "Casey Storm",
-        "position": "DL",
-        "rating": 75
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "CB",
-        "rating": 90
-      },
-      {
-        "name": "Jordan Wilder",
-        "position": "OL",
-        "rating": 90
-      },
-      {
-        "name": "Dana Frost",
-        "position": "TE",
+        "name": "Alex Frost",
+        "position": "WR",
         "rating": 67
       },
       {
-        "name": "Jordan Hawk",
-        "position": "QB",
-        "rating": 70
-      },
-      {
-        "name": "Quinn Stone",
-        "position": "S",
-        "rating": 88
-      },
-      {
-        "name": "Jordan Knight",
-        "position": "S",
-        "rating": 86
-      },
-      {
-        "name": "Casey Hawk",
-        "position": "DL",
-        "rating": 65
-      },
-      {
-        "name": "Taylor Hawk",
+        "name": "Alex Swift",
         "position": "CB",
         "rating": 73
       },
       {
-        "name": "Morgan Knight",
-        "position": "LB",
-        "rating": 92
-      },
-      {
-        "name": "Quinn Vance",
-        "position": "S",
-        "rating": 77
-      },
-      {
-        "name": "Jamie Swift",
-        "position": "CB",
-        "rating": 70
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "TE",
-        "rating": 67
-      },
-      {
-        "name": "Jordan Ridge",
-        "position": "CB",
-        "rating": 75
-      },
-      {
-        "name": "Morgan Frost",
-        "position": "RB",
-        "rating": 75
-      }
-    ]
-  },
-  {
-    "teamName": "Vance Hawks",
-    "abbreviation": "T02",
-    "players": [
-      {
-        "name": "Taylor Ridge",
-        "position": "QB",
-        "rating": 83
-      },
-      {
-        "name": "Riley Stone",
-        "position": "DL",
-        "rating": 75
-      },
-      {
-        "name": "Chris Wilder",
+        "name": "Casey Vance",
         "position": "K",
-        "rating": 82
-      },
-      {
-        "name": "Casey Blaze",
-        "position": "DL",
-        "rating": 86
-      },
-      {
-        "name": "Alex Blaze",
-        "position": "WR",
-        "rating": 87
-      },
-      {
-        "name": "Casey Hawk",
-        "position": "CB",
-        "rating": 80
-      },
-      {
-        "name": "Taylor Stone",
-        "position": "LB",
-        "rating": 81
+        "rating": 91
       },
       {
         "name": "Morgan Blaze",
-        "position": "S",
+        "position": "K",
         "rating": 94
       },
       {
-        "name": "Alex Hawk",
+        "name": "Taylor Hawk",
         "position": "RB",
-        "rating": 82
-      },
-      {
-        "name": "Dana Vance",
-        "position": "CB",
-        "rating": 89
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "TE",
-        "rating": 69
-      },
-      {
-        "name": "Riley Hawk",
-        "position": "DL",
-        "rating": 73
-      },
-      {
-        "name": "Jordan Wilder",
-        "position": "S",
-        "rating": 95
-      },
-      {
-        "name": "Morgan Storm",
-        "position": "K",
-        "rating": 78
-      },
-      {
-        "name": "Morgan Stone",
-        "position": "K",
-        "rating": 70
-      },
-      {
-        "name": "Riley Wilder",
-        "position": "K",
-        "rating": 72
-      },
-      {
-        "name": "Jamie Wilder",
-        "position": "QB",
-        "rating": 86
-      },
-      {
-        "name": "Quinn Ridge",
-        "position": "QB",
-        "rating": 73
-      },
-      {
-        "name": "Morgan Vance",
-        "position": "CB",
-        "rating": 85
-      },
-      {
-        "name": "Casey Stone",
-        "position": "RB",
-        "rating": 76
-      }
-    ]
-  },
-  {
-    "teamName": "Frost Titans",
-    "abbreviation": "T03",
-    "players": [
-      {
-        "name": "Taylor Ridge",
-        "position": "K",
-        "rating": 66
-      },
-      {
-        "name": "Jamie Stone",
-        "position": "LB",
-        "rating": 92
-      },
-      {
-        "name": "Morgan Knight",
-        "position": "OL",
-        "rating": 75
-      },
-      {
-        "name": "Casey Wilder",
-        "position": "DL",
-        "rating": 73
-      },
-      {
-        "name": "Jamie Wilder",
-        "position": "K",
         "rating": 77
       },
       {
-        "name": "Quinn Ridge",
-        "position": "QB",
-        "rating": 74
+        "name": "Casey Storm",
+        "position": "LB",
+        "rating": 91
       },
       {
-        "name": "Jordan Frost",
-        "position": "K",
-        "rating": 65
+        "name": "Jamie Blaze",
+        "position": "OL",
+        "rating": 67
+      },
+      {
+        "name": "Casey Swift",
+        "position": "OL",
+        "rating": 67
+      },
+      {
+        "name": "Morgan Frost",
+        "position": "WR",
+        "rating": 96
       },
       {
         "name": "Quinn Swift",
         "position": "S",
-        "rating": 91
+        "rating": 97
       },
       {
-        "name": "Quinn Stone",
-        "position": "CB",
-        "rating": 71
-      },
-      {
-        "name": "Alex Ridge",
-        "position": "WR",
-        "rating": 93
-      },
-      {
-        "name": "Jamie Vance",
-        "position": "TE",
-        "rating": 69
-      },
-      {
-        "name": "Quinn Vance",
-        "position": "S",
-        "rating": 94
-      },
-      {
-        "name": "Quinn Hawk",
-        "position": "QB",
-        "rating": 94
-      },
-      {
-        "name": "Alex Stone",
-        "position": "RB",
-        "rating": 89
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "S",
-        "rating": 72
-      },
-      {
-        "name": "Jamie Blaze",
-        "position": "QB",
-        "rating": 84
-      },
-      {
-        "name": "Alex Storm",
+        "name": "Riley Blaze",
         "position": "LB",
-        "rating": 82
+        "rating": 83
       },
       {
-        "name": "Alex Hawk",
-        "position": "LB",
+        "name": "Casey Vance",
+        "position": "QB",
+        "rating": 96
+      },
+      {
+        "name": "Jordan Blaze",
+        "position": "K",
+        "rating": 79
+      },
+      {
+        "name": "Dana Storm",
+        "position": "QB",
         "rating": 78
       },
       {
-        "name": "Chris Frost",
-        "position": "K",
-        "rating": 73
+        "name": "Alex Hawk",
+        "position": "DL",
+        "rating": 85
       },
       {
-        "name": "Alex Vance",
-        "position": "TE",
-        "rating": 85
+        "name": "Riley Wilder",
+        "position": "LB",
+        "rating": 96
+      },
+      {
+        "name": "Riley Ridge",
+        "position": "K",
+        "rating": 89
+      },
+      {
+        "name": "Quinn Ridge",
+        "position": "OL",
+        "rating": 94
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "OL",
+        "rating": 69
       }
     ]
   },
   {
-    "teamName": "Frost Cyclones",
-    "abbreviation": "T04",
+    "teamName": "Blaze Wolves",
+    "abbreviation": "T02",
     "players": [
       {
-        "name": "Jordan Wilder",
-        "position": "WR",
-        "rating": 93
-      },
-      {
-        "name": "Casey Storm",
-        "position": "RB",
-        "rating": 78
-      },
-      {
-        "name": "Jordan Ridge",
-        "position": "CB",
-        "rating": 90
-      },
-      {
-        "name": "Taylor Swift",
+        "name": "Dana Swift",
         "position": "TE",
-        "rating": 82
-      },
-      {
-        "name": "Quinn Ridge",
-        "position": "TE",
-        "rating": 89
-      },
-      {
-        "name": "Chris Frost",
-        "position": "CB",
-        "rating": 72
-      },
-      {
-        "name": "Quinn Wilder",
-        "position": "RB",
-        "rating": 88
-      },
-      {
-        "name": "Jamie Swift",
-        "position": "K",
-        "rating": 82
-      },
-      {
-        "name": "Dana Stone",
-        "position": "K",
-        "rating": 75
-      },
-      {
-        "name": "Jamie Knight",
-        "position": "DL",
-        "rating": 73
-      },
-      {
-        "name": "Alex Storm",
-        "position": "DL",
-        "rating": 78
-      },
-      {
-        "name": "Alex Frost",
-        "position": "S",
-        "rating": 78
-      },
-      {
-        "name": "Casey Hawk",
-        "position": "K",
-        "rating": 76
-      },
-      {
-        "name": "Quinn Storm",
-        "position": "WR",
         "rating": 70
       },
       {
-        "name": "Alex Blaze",
-        "position": "TE",
-        "rating": 67
+        "name": "Morgan Wilder",
+        "position": "WR",
+        "rating": 96
       },
       {
-        "name": "Riley Blaze",
+        "name": "Alex Stone",
         "position": "OL",
-        "rating": 76
+        "rating": 70
       },
       {
-        "name": "Chris Vance",
-        "position": "RB",
-        "rating": 69
+        "name": "Riley Knight",
+        "position": "LB",
+        "rating": 78
       },
       {
-        "name": "Dana Frost",
+        "name": "Jamie Wilder",
+        "position": "CB",
+        "rating": 81
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "CB",
+        "rating": 98
+      },
+      {
+        "name": "Quinn Vance",
+        "position": "WR",
+        "rating": 86
+      },
+      {
+        "name": "Casey Blaze",
         "position": "K",
-        "rating": 94
+        "rating": 87
       },
       {
         "name": "Chris Knight",
         "position": "TE",
-        "rating": 84
-      },
-      {
-        "name": "Dana Vance",
-        "position": "S",
-        "rating": 67
-      }
-    ]
-  },
-  {
-    "teamName": "Stone Hawks",
-    "abbreviation": "T05",
-    "players": [
-      {
-        "name": "Chris Storm",
-        "position": "K",
-        "rating": 92
-      },
-      {
-        "name": "Casey Blaze",
-        "position": "CB",
-        "rating": 72
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "DL",
-        "rating": 69
-      },
-      {
-        "name": "Dana Storm",
-        "position": "S",
-        "rating": 83
-      },
-      {
-        "name": "Quinn Swift",
-        "position": "K",
-        "rating": 70
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "S",
-        "rating": 92
-      },
-      {
-        "name": "Morgan Swift",
-        "position": "TE",
-        "rating": 92
-      },
-      {
-        "name": "Casey Storm",
-        "position": "TE",
-        "rating": 85
-      },
-      {
-        "name": "Taylor Ridge",
-        "position": "LB",
-        "rating": 87
-      },
-      {
-        "name": "Quinn Frost",
-        "position": "S",
-        "rating": 81
-      },
-      {
-        "name": "Taylor Frost",
-        "position": "CB",
-        "rating": 92
-      },
-      {
-        "name": "Riley Frost",
-        "position": "DL",
-        "rating": 75
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "RB",
-        "rating": 78
-      },
-      {
-        "name": "Jamie Wilder",
-        "position": "WR",
-        "rating": 65
-      },
-      {
-        "name": "Alex Vance",
-        "position": "S",
-        "rating": 75
-      },
-      {
-        "name": "Taylor Knight",
-        "position": "K",
-        "rating": 67
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "OL",
-        "rating": 91
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "S",
-        "rating": 72
-      },
-      {
-        "name": "Casey Ridge",
-        "position": "LB",
-        "rating": 77
-      },
-      {
-        "name": "Morgan Stone",
-        "position": "RB",
-        "rating": 90
-      }
-    ]
-  },
-  {
-    "teamName": "Knight Hawks",
-    "abbreviation": "T06",
-    "players": [
-      {
-        "name": "Alex Frost",
-        "position": "DL",
-        "rating": 83
-      },
-      {
-        "name": "Jordan Knight",
-        "position": "K",
-        "rating": 85
-      },
-      {
-        "name": "Jordan Knight",
-        "position": "OL",
-        "rating": 81
-      },
-      {
-        "name": "Chris Wilder",
-        "position": "WR",
-        "rating": 66
-      },
-      {
-        "name": "Dana Knight",
-        "position": "CB",
         "rating": 76
       },
       {
-        "name": "Casey Vance",
-        "position": "CB",
-        "rating": 91
-      },
-      {
-        "name": "Casey Frost",
-        "position": "RB",
-        "rating": 93
-      },
-      {
-        "name": "Chris Blaze",
-        "position": "TE",
-        "rating": 78
-      },
-      {
-        "name": "Alex Frost",
-        "position": "TE",
+        "name": "Dana Frost",
+        "position": "WR",
         "rating": 66
       },
       {
-        "name": "Alex Frost",
-        "position": "DL",
-        "rating": 78
-      },
-      {
-        "name": "Riley Stone",
-        "position": "CB",
-        "rating": 68
-      },
-      {
-        "name": "Casey Blaze",
-        "position": "OL",
-        "rating": 85
-      },
-      {
-        "name": "Taylor Knight",
+        "name": "Jordan Vance",
         "position": "WR",
-        "rating": 91
-      },
-      {
-        "name": "Alex Ridge",
-        "position": "OL",
-        "rating": 79
-      },
-      {
-        "name": "Alex Knight",
-        "position": "QB",
-        "rating": 88
-      },
-      {
-        "name": "Alex Knight",
-        "position": "RB",
-        "rating": 73
-      },
-      {
-        "name": "Alex Ridge",
-        "position": "WR",
-        "rating": 91
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "DL",
-        "rating": 92
+        "rating": 75
       },
       {
         "name": "Morgan Storm",
-        "position": "OL",
-        "rating": 80
-      },
-      {
-        "name": "Riley Wilder",
-        "position": "S",
-        "rating": 79
-      }
-    ]
-  },
-  {
-    "teamName": "Ridge Titans",
-    "abbreviation": "T07",
-    "players": [
-      {
-        "name": "Jordan Knight",
-        "position": "LB",
-        "rating": 73
-      },
-      {
-        "name": "Riley Swift",
         "position": "QB",
-        "rating": 90
+        "rating": 69
       },
       {
-        "name": "Quinn Frost",
-        "position": "K",
-        "rating": 71
+        "name": "Riley Ridge",
+        "position": "QB",
+        "rating": 66
       },
       {
-        "name": "Casey Hawk",
-        "position": "LB",
-        "rating": 87
-      },
-      {
-        "name": "Riley Frost",
-        "position": "S",
+        "name": "Jamie Hawk",
+        "position": "WR",
         "rating": 75
       },
       {
-        "name": "Dana Wilder",
-        "position": "TE",
-        "rating": 76
+        "name": "Casey Frost",
+        "position": "S",
+        "rating": 66
       },
       {
-        "name": "Riley Stone",
-        "position": "K",
-        "rating": 95
-      },
-      {
-        "name": "Alex Swift",
-        "position": "LB",
-        "rating": 93
-      },
-      {
-        "name": "Dana Wilder",
-        "position": "OL",
+        "name": "Jordan Wilder",
+        "position": "WR",
         "rating": 84
       },
       {
         "name": "Dana Ridge",
-        "position": "S",
-        "rating": 73
-      },
-      {
-        "name": "Dana Hawk",
         "position": "LB",
         "rating": 66
       },
       {
-        "name": "Casey Blaze",
-        "position": "TE",
-        "rating": 69
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "CB",
-        "rating": 69
-      },
-      {
-        "name": "Jordan Knight",
-        "position": "TE",
+        "name": "Quinn Ridge",
+        "position": "OL",
         "rating": 72
       },
       {
-        "name": "Jordan Hawk",
-        "position": "RB",
+        "name": "Taylor Vance",
+        "position": "S",
         "rating": 88
       },
       {
-        "name": "Morgan Knight",
-        "position": "RB",
-        "rating": 86
+        "name": "Jamie Swift",
+        "position": "TE",
+        "rating": 88
+      }
+    ]
+  },
+  {
+    "teamName": "Vance Titans",
+    "abbreviation": "T03",
+    "players": [
+      {
+        "name": "Alex Wilder",
+        "position": "LB",
+        "rating": 81
       },
       {
-        "name": "Jamie Wilder",
+        "name": "Quinn Blaze",
+        "position": "OL",
+        "rating": 77
+      },
+      {
+        "name": "Casey Vance",
+        "position": "WR",
+        "rating": 84
+      },
+      {
+        "name": "Casey Wilder",
+        "position": "WR",
+        "rating": 75
+      },
+      {
+        "name": "Alex Ridge",
+        "position": "QB",
+        "rating": 97
+      },
+      {
+        "name": "Casey Storm",
+        "position": "QB",
+        "rating": 76
+      },
+      {
+        "name": "Alex Blaze",
+        "position": "TE",
+        "rating": 76
+      },
+      {
+        "name": "Jordan Ridge",
         "position": "K",
-        "rating": 82
+        "rating": 87
       },
       {
-        "name": "Quinn Knight",
+        "name": "Taylor Swift",
+        "position": "QB",
+        "rating": 70
+      },
+      {
+        "name": "Jamie Blaze",
+        "position": "OL",
+        "rating": 85
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "S",
+        "rating": 71
+      },
+      {
+        "name": "Dana Hawk",
+        "position": "LB",
+        "rating": 80
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "WR",
+        "rating": 65
+      },
+      {
+        "name": "Casey Ridge",
         "position": "RB",
         "rating": 95
       },
       {
-        "name": "Casey Blaze",
+        "name": "Jamie Vance",
+        "position": "TE",
+        "rating": 75
+      },
+      {
+        "name": "Quinn Storm",
+        "position": "WR",
+        "rating": 88
+      },
+      {
+        "name": "Riley Ridge",
+        "position": "DL",
+        "rating": 82
+      },
+      {
+        "name": "Alex Knight",
+        "position": "K",
+        "rating": 88
+      },
+      {
+        "name": "Dana Vance",
+        "position": "QB",
+        "rating": 86
+      },
+      {
+        "name": "Quinn Hawk",
+        "position": "QB",
+        "rating": 96
+      }
+    ]
+  },
+  {
+    "teamName": "Ridge Rockets",
+    "abbreviation": "T04",
+    "players": [
+      {
+        "name": "Quinn Ridge",
+        "position": "WR",
+        "rating": 96
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "OL",
+        "rating": 88
+      },
+      {
+        "name": "Jordan Frost",
+        "position": "K",
+        "rating": 96
+      },
+      {
+        "name": "Casey Wilder",
+        "position": "WR",
+        "rating": 98
+      },
+      {
+        "name": "Casey Swift",
+        "position": "TE",
+        "rating": 81
+      },
+      {
+        "name": "Chris Stone",
+        "position": "DL",
+        "rating": 94
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "WR",
+        "rating": 80
+      },
+      {
+        "name": "Riley Ridge",
+        "position": "CB",
+        "rating": 91
+      },
+      {
+        "name": "Jamie Vance",
+        "position": "WR",
+        "rating": 72
+      },
+      {
+        "name": "Dana Ridge",
+        "position": "DL",
+        "rating": 75
+      },
+      {
+        "name": "Morgan Swift",
+        "position": "S",
+        "rating": 98
+      },
+      {
+        "name": "Riley Frost",
+        "position": "WR",
+        "rating": 83
+      },
+      {
+        "name": "Dana Swift",
+        "position": "RB",
+        "rating": 96
+      },
+      {
+        "name": "Quinn Storm",
+        "position": "S",
+        "rating": 80
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "K",
+        "rating": 88
+      },
+      {
+        "name": "Casey Swift",
+        "position": "DL",
+        "rating": 97
+      },
+      {
+        "name": "Chris Blaze",
+        "position": "CB",
+        "rating": 76
+      },
+      {
+        "name": "Morgan Frost",
+        "position": "K",
+        "rating": 79
+      },
+      {
+        "name": "Morgan Ridge",
+        "position": "CB",
+        "rating": 77
+      },
+      {
+        "name": "Riley Vance",
+        "position": "CB",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "teamName": "Frost Rockets",
+    "abbreviation": "T05",
+    "players": [
+      {
+        "name": "Morgan Ridge",
         "position": "LB",
+        "rating": 68
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "RB",
+        "rating": 82
+      },
+      {
+        "name": "Jamie Ridge",
+        "position": "TE",
+        "rating": 80
+      },
+      {
+        "name": "Alex Knight",
+        "position": "WR",
+        "rating": 69
+      },
+      {
+        "name": "Alex Wilder",
+        "position": "OL",
+        "rating": 99
+      },
+      {
+        "name": "Dana Ridge",
+        "position": "CB",
+        "rating": 83
+      },
+      {
+        "name": "Morgan Ridge",
+        "position": "S",
+        "rating": 68
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "CB",
         "rating": 85
       },
       {
+        "name": "Dana Vance",
+        "position": "CB",
+        "rating": 96
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "LB",
+        "rating": 98
+      },
+      {
+        "name": "Riley Blaze",
+        "position": "CB",
+        "rating": 71
+      },
+      {
+        "name": "Morgan Ridge",
+        "position": "RB",
+        "rating": 66
+      },
+      {
+        "name": "Chris Blaze",
+        "position": "OL",
+        "rating": 80
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "RB",
+        "rating": 69
+      },
+      {
+        "name": "Quinn Blaze",
+        "position": "DL",
+        "rating": 78
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "RB",
+        "rating": 85
+      },
+      {
+        "name": "Riley Ridge",
+        "position": "S",
+        "rating": 94
+      },
+      {
+        "name": "Dana Vance",
+        "position": "RB",
+        "rating": 67
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "CB",
+        "rating": 68
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "QB",
+        "rating": 67
+      }
+    ]
+  },
+  {
+    "teamName": "Storm Wolves",
+    "abbreviation": "T06",
+    "players": [
+      {
+        "name": "Jamie Hawk",
+        "position": "RB",
+        "rating": 93
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "TE",
+        "rating": 77
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "DL",
+        "rating": 91
+      },
+      {
+        "name": "Casey Knight",
+        "position": "QB",
+        "rating": 99
+      },
+      {
+        "name": "Chris Storm",
+        "position": "CB",
+        "rating": 79
+      },
+      {
+        "name": "Quinn Stone",
+        "position": "OL",
+        "rating": 98
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "DL",
+        "rating": 69
+      },
+      {
+        "name": "Alex Wilder",
+        "position": "OL",
+        "rating": 68
+      },
+      {
+        "name": "Taylor Vance",
+        "position": "QB",
+        "rating": 86
+      },
+      {
+        "name": "Quinn Blaze",
+        "position": "QB",
+        "rating": 70
+      },
+      {
+        "name": "Chris Storm",
+        "position": "DL",
+        "rating": 82
+      },
+      {
+        "name": "Alex Swift",
+        "position": "CB",
+        "rating": 65
+      },
+      {
+        "name": "Jamie Knight",
+        "position": "S",
+        "rating": 74
+      },
+      {
+        "name": "Jamie Ridge",
+        "position": "OL",
+        "rating": 71
+      },
+      {
+        "name": "Dana Wilder",
+        "position": "DL",
+        "rating": 73
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "S",
+        "rating": 68
+      },
+      {
+        "name": "Taylor Knight",
+        "position": "WR",
+        "rating": 71
+      },
+      {
+        "name": "Alex Wilder",
+        "position": "K",
+        "rating": 65
+      },
+      {
+        "name": "Chris Frost",
+        "position": "QB",
+        "rating": 68
+      },
+      {
+        "name": "Jordan Frost",
+        "position": "K",
+        "rating": 94
+      }
+    ]
+  },
+  {
+    "teamName": "Blaze Rockets",
+    "abbreviation": "T07",
+    "players": [
+      {
+        "name": "Riley Vance",
+        "position": "LB",
+        "rating": 93
+      },
+      {
+        "name": "Chris Vance",
+        "position": "RB",
+        "rating": 77
+      },
+      {
+        "name": "Jamie Storm",
+        "position": "DL",
+        "rating": 75
+      },
+      {
+        "name": "Chris Wilder",
+        "position": "OL",
+        "rating": 94
+      },
+      {
+        "name": "Casey Vance",
+        "position": "TE",
+        "rating": 78
+      },
+      {
+        "name": "Chris Swift",
+        "position": "CB",
+        "rating": 74
+      },
+      {
+        "name": "Alex Hawk",
+        "position": "S",
+        "rating": 82
+      },
+      {
+        "name": "Jordan Wilder",
+        "position": "S",
+        "rating": 95
+      },
+      {
+        "name": "Taylor Ridge",
+        "position": "RB",
+        "rating": 97
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "K",
+        "rating": 81
+      },
+      {
+        "name": "Morgan Blaze",
+        "position": "K",
+        "rating": 87
+      },
+      {
         "name": "Dana Knight",
+        "position": "S",
+        "rating": 86
+      },
+      {
+        "name": "Jamie Ridge",
+        "position": "QB",
+        "rating": 80
+      },
+      {
+        "name": "Jamie Swift",
+        "position": "TE",
+        "rating": 76
+      },
+      {
+        "name": "Taylor Knight",
+        "position": "WR",
+        "rating": 71
+      },
+      {
+        "name": "Morgan Frost",
+        "position": "OL",
+        "rating": 65
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "TE",
+        "rating": 72
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "OL",
+        "rating": 92
+      },
+      {
+        "name": "Morgan Swift",
+        "position": "CB",
+        "rating": 87
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "S",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "teamName": "Frost Wolves",
+    "abbreviation": "T08",
+    "players": [
+      {
+        "name": "Morgan Storm",
+        "position": "CB",
+        "rating": 76
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "K",
+        "rating": 82
+      },
+      {
+        "name": "Taylor Blaze",
+        "position": "LB",
+        "rating": 91
+      },
+      {
+        "name": "Riley Stone",
+        "position": "LB",
+        "rating": 77
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "RB",
+        "rating": 75
+      },
+      {
+        "name": "Dana Vance",
+        "position": "QB",
+        "rating": 70
+      },
+      {
+        "name": "Jordan Hawk",
+        "position": "DL",
+        "rating": 96
+      },
+      {
+        "name": "Casey Frost",
+        "position": "S",
+        "rating": 84
+      },
+      {
+        "name": "Riley Stone",
+        "position": "K",
+        "rating": 73
+      },
+      {
+        "name": "Taylor Storm",
+        "position": "K",
+        "rating": 84
+      },
+      {
+        "name": "Jordan Wilder",
+        "position": "LB",
+        "rating": 76
+      },
+      {
+        "name": "Alex Swift",
+        "position": "S",
+        "rating": 87
+      },
+      {
+        "name": "Riley Ridge",
+        "position": "S",
+        "rating": 95
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "RB",
+        "rating": 94
+      },
+      {
+        "name": "Casey Swift",
+        "position": "WR",
+        "rating": 69
+      },
+      {
+        "name": "Alex Blaze",
+        "position": "S",
+        "rating": 85
+      },
+      {
+        "name": "Quinn Frost",
+        "position": "S",
+        "rating": 83
+      },
+      {
+        "name": "Alex Stone",
+        "position": "RB",
+        "rating": 82
+      },
+      {
+        "name": "Jordan Ridge",
+        "position": "OL",
+        "rating": 89
+      },
+      {
+        "name": "Jordan Wilder",
+        "position": "LB",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "teamName": "Swift Rockets",
+    "abbreviation": "T09",
+    "players": [
+      {
+        "name": "Casey Ridge",
+        "position": "S",
+        "rating": 77
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "LB",
+        "rating": 79
+      },
+      {
+        "name": "Alex Stone",
+        "position": "OL",
+        "rating": 89
+      },
+      {
+        "name": "Chris Vance",
+        "position": "OL",
+        "rating": 80
+      },
+      {
+        "name": "Riley Stone",
+        "position": "S",
+        "rating": 86
+      },
+      {
+        "name": "Riley Vance",
+        "position": "OL",
+        "rating": 93
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "K",
+        "rating": 82
+      },
+      {
+        "name": "Jamie Stone",
+        "position": "CB",
+        "rating": 66
+      },
+      {
+        "name": "Taylor Blaze",
+        "position": "QB",
+        "rating": 78
+      },
+      {
+        "name": "Morgan Blaze",
+        "position": "K",
+        "rating": 71
+      },
+      {
+        "name": "Casey Vance",
+        "position": "K",
+        "rating": 68
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "RB",
+        "rating": 95
+      },
+      {
+        "name": "Chris Swift",
+        "position": "S",
+        "rating": 83
+      },
+      {
+        "name": "Quinn Vance",
+        "position": "RB",
+        "rating": 91
+      },
+      {
+        "name": "Chris Vance",
+        "position": "WR",
+        "rating": 90
+      },
+      {
+        "name": "Taylor Ridge",
+        "position": "TE",
+        "rating": 88
+      },
+      {
+        "name": "Dana Wilder",
+        "position": "CB",
+        "rating": 99
+      },
+      {
+        "name": "Quinn Hawk",
+        "position": "S",
+        "rating": 71
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "S",
+        "rating": 70
+      },
+      {
+        "name": "Jordan Frost",
+        "position": "RB",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "teamName": "Swift Wolves",
+    "abbreviation": "T10",
+    "players": [
+      {
+        "name": "Casey Storm",
+        "position": "TE",
+        "rating": 86
+      },
+      {
+        "name": "Casey Blaze",
+        "position": "CB",
+        "rating": 80
+      },
+      {
+        "name": "Jordan Swift",
+        "position": "K",
+        "rating": 73
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "S",
+        "rating": 92
+      },
+      {
+        "name": "Taylor Hawk",
+        "position": "RB",
+        "rating": 75
+      },
+      {
+        "name": "Taylor Vance",
+        "position": "WR",
+        "rating": 71
+      },
+      {
+        "name": "Casey Storm",
+        "position": "WR",
+        "rating": 70
+      },
+      {
+        "name": "Chris Frost",
+        "position": "RB",
+        "rating": 99
+      },
+      {
+        "name": "Dana Swift",
+        "position": "CB",
+        "rating": 72
+      },
+      {
+        "name": "Casey Vance",
+        "position": "WR",
+        "rating": 73
+      },
+      {
+        "name": "Jamie Storm",
+        "position": "WR",
+        "rating": 77
+      },
+      {
+        "name": "Casey Wilder",
+        "position": "OL",
+        "rating": 74
+      },
+      {
+        "name": "Taylor Storm",
+        "position": "WR",
+        "rating": 65
+      },
+      {
+        "name": "Casey Wilder",
+        "position": "S",
+        "rating": 74
+      },
+      {
+        "name": "Dana Swift",
+        "position": "WR",
+        "rating": 78
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "TE",
+        "rating": 84
+      },
+      {
+        "name": "Quinn Storm",
+        "position": "LB",
+        "rating": 94
+      },
+      {
+        "name": "Dana Vance",
+        "position": "QB",
+        "rating": 72
+      },
+      {
+        "name": "Jamie Stone",
+        "position": "RB",
+        "rating": 80
+      },
+      {
+        "name": "Morgan Frost",
         "position": "LB",
         "rating": 88
       }
@@ -743,2651 +1061,2333 @@
   },
   {
     "teamName": "Wilder Wolves",
-    "abbreviation": "T08",
-    "players": [
-      {
-        "name": "Jamie Knight",
-        "position": "LB",
-        "rating": 73
-      },
-      {
-        "name": "Casey Hawk",
-        "position": "DL",
-        "rating": 75
-      },
-      {
-        "name": "Alex Knight",
-        "position": "S",
-        "rating": 81
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "WR",
-        "rating": 79
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "LB",
-        "rating": 79
-      },
-      {
-        "name": "Alex Swift",
-        "position": "QB",
-        "rating": 85
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "K",
-        "rating": 87
-      },
-      {
-        "name": "Morgan Storm",
-        "position": "DL",
-        "rating": 80
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "S",
-        "rating": 87
-      },
-      {
-        "name": "Riley Frost",
-        "position": "DL",
-        "rating": 82
-      },
-      {
-        "name": "Morgan Ridge",
-        "position": "WR",
-        "rating": 82
-      },
-      {
-        "name": "Taylor Blaze",
-        "position": "QB",
-        "rating": 93
-      },
-      {
-        "name": "Jamie Frost",
-        "position": "WR",
-        "rating": 87
-      },
-      {
-        "name": "Casey Frost",
-        "position": "DL",
-        "rating": 82
-      },
-      {
-        "name": "Chris Stone",
-        "position": "CB",
-        "rating": 89
-      },
-      {
-        "name": "Jamie Knight",
-        "position": "LB",
-        "rating": 74
-      },
-      {
-        "name": "Casey Wilder",
-        "position": "WR",
-        "rating": 70
-      },
-      {
-        "name": "Jordan Hawk",
-        "position": "LB",
-        "rating": 77
-      },
-      {
-        "name": "Casey Vance",
-        "position": "K",
-        "rating": 76
-      },
-      {
-        "name": "Quinn Vance",
-        "position": "CB",
-        "rating": 66
-      }
-    ]
-  },
-  {
-    "teamName": "Blaze Hawks",
-    "abbreviation": "T09",
-    "players": [
-      {
-        "name": "Chris Hawk",
-        "position": "WR",
-        "rating": 81
-      },
-      {
-        "name": "Chris Wilder",
-        "position": "RB",
-        "rating": 69
-      },
-      {
-        "name": "Dana Frost",
-        "position": "DL",
-        "rating": 91
-      },
-      {
-        "name": "Jamie Hawk",
-        "position": "TE",
-        "rating": 86
-      },
-      {
-        "name": "Quinn Hawk",
-        "position": "K",
-        "rating": 85
-      },
-      {
-        "name": "Dana Swift",
-        "position": "LB",
-        "rating": 68
-      },
-      {
-        "name": "Alex Wilder",
-        "position": "RB",
-        "rating": 77
-      },
-      {
-        "name": "Jamie Blaze",
-        "position": "DL",
-        "rating": 93
-      },
-      {
-        "name": "Quinn Wilder",
-        "position": "LB",
-        "rating": 94
-      },
-      {
-        "name": "Dana Storm",
-        "position": "WR",
-        "rating": 85
-      },
-      {
-        "name": "Chris Wilder",
-        "position": "DL",
-        "rating": 91
-      },
-      {
-        "name": "Alex Frost",
-        "position": "OL",
-        "rating": 94
-      },
-      {
-        "name": "Riley Storm",
-        "position": "CB",
-        "rating": 81
-      },
-      {
-        "name": "Quinn Vance",
-        "position": "OL",
-        "rating": 75
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "OL",
-        "rating": 93
-      },
-      {
-        "name": "Jamie Stone",
-        "position": "TE",
-        "rating": 86
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "K",
-        "rating": 87
-      },
-      {
-        "name": "Riley Hawk",
-        "position": "S",
-        "rating": 95
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "RB",
-        "rating": 71
-      },
-      {
-        "name": "Taylor Blaze",
-        "position": "CB",
-        "rating": 84
-      }
-    ]
-  },
-  {
-    "teamName": "Blaze Titans",
-    "abbreviation": "T10",
-    "players": [
-      {
-        "name": "Chris Stone",
-        "position": "RB",
-        "rating": 81
-      },
-      {
-        "name": "Taylor Ridge",
-        "position": "OL",
-        "rating": 87
-      },
-      {
-        "name": "Riley Hawk",
-        "position": "QB",
-        "rating": 90
-      },
-      {
-        "name": "Quinn Knight",
-        "position": "CB",
-        "rating": 93
-      },
-      {
-        "name": "Jordan Blaze",
-        "position": "TE",
-        "rating": 86
-      },
-      {
-        "name": "Riley Vance",
-        "position": "S",
-        "rating": 68
-      },
-      {
-        "name": "Taylor Stone",
-        "position": "RB",
-        "rating": 67
-      },
-      {
-        "name": "Dana Swift",
-        "position": "K",
-        "rating": 72
-      },
-      {
-        "name": "Riley Vance",
-        "position": "S",
-        "rating": 88
-      },
-      {
-        "name": "Taylor Wilder",
-        "position": "OL",
-        "rating": 85
-      },
-      {
-        "name": "Riley Hawk",
-        "position": "S",
-        "rating": 80
-      },
-      {
-        "name": "Dana Stone",
-        "position": "DL",
-        "rating": 75
-      },
-      {
-        "name": "Riley Knight",
-        "position": "LB",
-        "rating": 73
-      },
-      {
-        "name": "Chris Frost",
-        "position": "WR",
-        "rating": 68
-      },
-      {
-        "name": "Riley Blaze",
-        "position": "CB",
-        "rating": 77
-      },
-      {
-        "name": "Morgan Hawk",
-        "position": "QB",
-        "rating": 87
-      },
-      {
-        "name": "Morgan Wilder",
-        "position": "K",
-        "rating": 67
-      },
-      {
-        "name": "Chris Storm",
-        "position": "S",
-        "rating": 94
-      },
-      {
-        "name": "Quinn Swift",
-        "position": "TE",
-        "rating": 91
-      },
-      {
-        "name": "Alex Frost",
-        "position": "S",
-        "rating": 70
-      }
-    ]
-  },
-  {
-    "teamName": "Knight Cyclones",
     "abbreviation": "T11",
     "players": [
       {
-        "name": "Casey Vance",
-        "position": "DL",
-        "rating": 65
-      },
-      {
-        "name": "Dana Swift",
-        "position": "DL",
+        "name": "Chris Hawk",
+        "position": "RB",
         "rating": 95
       },
       {
-        "name": "Alex Storm",
-        "position": "S",
+        "name": "Taylor Knight",
+        "position": "K",
         "rating": 93
-      },
-      {
-        "name": "Casey Storm",
-        "position": "TE",
-        "rating": 90
-      },
-      {
-        "name": "Quinn Knight",
-        "position": "S",
-        "rating": 83
-      },
-      {
-        "name": "Jordan Hawk",
-        "position": "RB",
-        "rating": 90
-      },
-      {
-        "name": "Jamie Blaze",
-        "position": "OL",
-        "rating": 70
-      },
-      {
-        "name": "Dana Wilder",
-        "position": "WR",
-        "rating": 78
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "DL",
-        "rating": 90
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "OL",
-        "rating": 88
-      },
-      {
-        "name": "Morgan Wilder",
-        "position": "DL",
-        "rating": 92
-      },
-      {
-        "name": "Morgan Swift",
-        "position": "LB",
-        "rating": 79
-      },
-      {
-        "name": "Jordan Ridge",
-        "position": "OL",
-        "rating": 73
-      },
-      {
-        "name": "Casey Storm",
-        "position": "RB",
-        "rating": 83
-      },
-      {
-        "name": "Morgan Hawk",
-        "position": "DL",
-        "rating": 81
-      },
-      {
-        "name": "Casey Hawk",
-        "position": "K",
-        "rating": 84
-      },
-      {
-        "name": "Dana Vance",
-        "position": "K",
-        "rating": 89
-      },
-      {
-        "name": "Chris Storm",
-        "position": "S",
-        "rating": 88
-      },
-      {
-        "name": "Casey Knight",
-        "position": "CB",
-        "rating": 66
-      },
-      {
-        "name": "Chris Swift",
-        "position": "DL",
-        "rating": 69
-      }
-    ]
-  },
-  {
-    "teamName": "Frost Hawks",
-    "abbreviation": "T12",
-    "players": [
-      {
-        "name": "Alex Wilder",
-        "position": "RB",
-        "rating": 65
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "S",
-        "rating": 72
-      },
-      {
-        "name": "Jamie Wilder",
-        "position": "CB",
-        "rating": 86
-      },
-      {
-        "name": "Casey Wilder",
-        "position": "RB",
-        "rating": 72
-      },
-      {
-        "name": "Morgan Frost",
-        "position": "CB",
-        "rating": 82
-      },
-      {
-        "name": "Jordan Hawk",
-        "position": "OL",
-        "rating": 86
-      },
-      {
-        "name": "Alex Swift",
-        "position": "CB",
-        "rating": 94
-      },
-      {
-        "name": "Casey Swift",
-        "position": "DL",
-        "rating": 89
-      },
-      {
-        "name": "Casey Knight",
-        "position": "S",
-        "rating": 71
-      },
-      {
-        "name": "Taylor Vance",
-        "position": "WR",
-        "rating": 69
-      },
-      {
-        "name": "Jordan Knight",
-        "position": "S",
-        "rating": 68
-      },
-      {
-        "name": "Morgan Ridge",
-        "position": "DL",
-        "rating": 90
-      },
-      {
-        "name": "Jamie Knight",
-        "position": "S",
-        "rating": 74
-      },
-      {
-        "name": "Jordan Swift",
-        "position": "K",
-        "rating": 87
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "LB",
-        "rating": 82
       },
       {
         "name": "Alex Knight",
-        "position": "CB",
-        "rating": 83
-      },
-      {
-        "name": "Dana Storm",
-        "position": "RB",
-        "rating": 94
-      },
-      {
-        "name": "Dana Storm",
-        "position": "OL",
-        "rating": 94
-      },
-      {
-        "name": "Alex Storm",
-        "position": "LB",
-        "rating": 85
-      },
-      {
-        "name": "Dana Ridge",
-        "position": "OL",
-        "rating": 78
-      }
-    ]
-  },
-  {
-    "teamName": "Knight Titans",
-    "abbreviation": "T13",
-    "players": [
-      {
-        "name": "Chris Knight",
-        "position": "LB",
-        "rating": 75
-      },
-      {
-        "name": "Jordan Storm",
-        "position": "LB",
+        "position": "QB",
         "rating": 93
-      },
-      {
-        "name": "Taylor Blaze",
-        "position": "DL",
-        "rating": 75
-      },
-      {
-        "name": "Alex Blaze",
-        "position": "K",
-        "rating": 91
-      },
-      {
-        "name": "Alex Stone",
-        "position": "RB",
-        "rating": 94
-      },
-      {
-        "name": "Alex Knight",
-        "position": "TE",
-        "rating": 82
-      },
-      {
-        "name": "Chris Storm",
-        "position": "TE",
-        "rating": 81
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "WR",
-        "rating": 68
-      },
-      {
-        "name": "Quinn Swift",
-        "position": "S",
-        "rating": 84
-      },
-      {
-        "name": "Morgan Ridge",
-        "position": "OL",
-        "rating": 84
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "CB",
-        "rating": 94
-      },
-      {
-        "name": "Dana Vance",
-        "position": "DL",
-        "rating": 71
-      },
-      {
-        "name": "Quinn Wilder",
-        "position": "OL",
-        "rating": 67
-      },
-      {
-        "name": "Casey Frost",
-        "position": "S",
-        "rating": 66
-      },
-      {
-        "name": "Chris Wilder",
-        "position": "WR",
-        "rating": 65
-      },
-      {
-        "name": "Alex Blaze",
-        "position": "QB",
-        "rating": 72
-      },
-      {
-        "name": "Morgan Hawk",
-        "position": "WR",
-        "rating": 89
-      },
-      {
-        "name": "Jordan Swift",
-        "position": "WR",
-        "rating": 93
-      },
-      {
-        "name": "Dana Wilder",
-        "position": "CB",
-        "rating": 92
-      },
-      {
-        "name": "Riley Knight",
-        "position": "QB",
-        "rating": 91
-      }
-    ]
-  },
-  {
-    "teamName": "Blaze Rockets",
-    "abbreviation": "T14",
-    "players": [
-      {
-        "name": "Jamie Stone",
-        "position": "S",
-        "rating": 91
-      },
-      {
-        "name": "Taylor Storm",
-        "position": "LB",
-        "rating": 94
-      },
-      {
-        "name": "Dana Vance",
-        "position": "QB",
-        "rating": 86
-      },
-      {
-        "name": "Casey Vance",
-        "position": "OL",
-        "rating": 90
-      },
-      {
-        "name": "Taylor Storm",
-        "position": "DL",
-        "rating": 68
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "S",
-        "rating": 75
-      },
-      {
-        "name": "Morgan Frost",
-        "position": "WR",
-        "rating": 90
-      },
-      {
-        "name": "Chris Ridge",
-        "position": "OL",
-        "rating": 81
-      },
-      {
-        "name": "Dana Frost",
-        "position": "TE",
-        "rating": 86
-      },
-      {
-        "name": "Alex Frost",
-        "position": "DL",
-        "rating": 83
-      },
-      {
-        "name": "Dana Frost",
-        "position": "CB",
-        "rating": 68
-      },
-      {
-        "name": "Jordan Frost",
-        "position": "S",
-        "rating": 82
-      },
-      {
-        "name": "Morgan Blaze",
-        "position": "CB",
-        "rating": 89
-      },
-      {
-        "name": "Casey Knight",
-        "position": "RB",
-        "rating": 72
-      },
-      {
-        "name": "Jamie Blaze",
-        "position": "DL",
-        "rating": 73
-      },
-      {
-        "name": "Chris Frost",
-        "position": "RB",
-        "rating": 77
       },
       {
         "name": "Riley Hawk",
-        "position": "DL",
-        "rating": 70
+        "position": "K",
+        "rating": 79
       },
       {
-        "name": "Dana Vance",
-        "position": "WR",
-        "rating": 85
+        "name": "Casey Vance",
+        "position": "RB",
+        "rating": 99
       },
       {
         "name": "Riley Knight",
-        "position": "TE",
-        "rating": 71
-      },
-      {
-        "name": "Chris Ridge",
-        "position": "CB",
-        "rating": 76
-      }
-    ]
-  },
-  {
-    "teamName": "Swift Cyclones",
-    "abbreviation": "T15",
-    "players": [
-      {
-        "name": "Jordan Vance",
-        "position": "OL",
-        "rating": 77
-      },
-      {
-        "name": "Casey Swift",
-        "position": "OL",
-        "rating": 76
-      },
-      {
-        "name": "Morgan Hawk",
-        "position": "OL",
-        "rating": 95
-      },
-      {
-        "name": "Jamie Wilder",
-        "position": "CB",
-        "rating": 81
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "CB",
-        "rating": 71
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "DL",
-        "rating": 89
-      },
-      {
-        "name": "Riley Stone",
         "position": "QB",
-        "rating": 68
+        "rating": 96
       },
       {
-        "name": "Jamie Ridge",
-        "position": "CB",
-        "rating": 73
-      },
-      {
-        "name": "Alex Knight",
-        "position": "QB",
-        "rating": 73
-      },
-      {
-        "name": "Quinn Wilder",
-        "position": "WR",
-        "rating": 87
-      },
-      {
-        "name": "Dana Ridge",
-        "position": "DL",
-        "rating": 69
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "RB",
-        "rating": 80
-      },
-      {
-        "name": "Taylor Knight",
-        "position": "RB",
-        "rating": 84
-      },
-      {
-        "name": "Alex Wilder",
-        "position": "DL",
-        "rating": 73
-      },
-      {
-        "name": "Alex Blaze",
+        "name": "Taylor Vance",
         "position": "LB",
-        "rating": 92
+        "rating": 66
       },
       {
-        "name": "Morgan Swift",
+        "name": "Jamie Vance",
+        "position": "WR",
+        "rating": 66
+      },
+      {
+        "name": "Jordan Swift",
+        "position": "WR",
+        "rating": 82
+      },
+      {
+        "name": "Jamie Swift",
+        "position": "DL",
+        "rating": 66
+      },
+      {
+        "name": "Casey Knight",
         "position": "CB",
-        "rating": 72
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "K",
-        "rating": 95
-      },
-      {
-        "name": "Jordan Hawk",
-        "position": "OL",
-        "rating": 72
-      },
-      {
-        "name": "Alex Swift",
-        "position": "S",
         "rating": 74
       },
       {
+        "name": "Morgan Blaze",
+        "position": "QB",
+        "rating": 79
+      },
+      {
         "name": "Casey Ridge",
+        "position": "LB",
+        "rating": 65
+      },
+      {
+        "name": "Riley Frost",
+        "position": "QB",
+        "rating": 92
+      },
+      {
+        "name": "Jordan Vance",
+        "position": "RB",
+        "rating": 70
+      },
+      {
+        "name": "Riley Ridge",
         "position": "TE",
+        "rating": 89
+      },
+      {
+        "name": "Alex Hawk",
+        "position": "WR",
+        "rating": 67
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "OL",
+        "rating": 99
+      },
+      {
+        "name": "Casey Frost",
+        "position": "K",
+        "rating": 99
+      },
+      {
+        "name": "Chris Swift",
+        "position": "QB",
         "rating": 82
       }
     ]
   },
   {
-    "teamName": "Wilder Hawks",
-    "abbreviation": "T16",
+    "teamName": "Storm Cyclones",
+    "abbreviation": "T12",
     "players": [
       {
-        "name": "Dana Swift",
-        "position": "OL",
-        "rating": 65
-      },
-      {
-        "name": "Riley Blaze",
-        "position": "OL",
-        "rating": 90
-      },
-      {
-        "name": "Riley Ridge",
-        "position": "RB",
-        "rating": 71
-      },
-      {
-        "name": "Alex Storm",
-        "position": "S",
-        "rating": 68
-      },
-      {
-        "name": "Quinn Hawk",
-        "position": "DL",
-        "rating": 84
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "OL",
-        "rating": 88
-      },
-      {
-        "name": "Taylor Knight",
-        "position": "QB",
-        "rating": 77
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "QB",
-        "rating": 94
-      },
-      {
-        "name": "Dana Frost",
-        "position": "DL",
-        "rating": 76
-      },
-      {
-        "name": "Jordan Frost",
-        "position": "QB",
-        "rating": 95
-      },
-      {
-        "name": "Morgan Vance",
-        "position": "CB",
-        "rating": 80
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "LB",
-        "rating": 73
-      },
-      {
-        "name": "Chris Frost",
-        "position": "RB",
-        "rating": 95
-      },
-      {
-        "name": "Riley Wilder",
-        "position": "LB",
-        "rating": 77
-      },
-      {
-        "name": "Taylor Blaze",
-        "position": "LB",
-        "rating": 86
-      },
-      {
-        "name": "Dana Storm",
-        "position": "QB",
-        "rating": 91
-      },
-      {
-        "name": "Chris Vance",
-        "position": "WR",
-        "rating": 91
-      },
-      {
-        "name": "Dana Knight",
-        "position": "OL",
-        "rating": 91
-      },
-      {
-        "name": "Taylor Stone",
+        "name": "Casey Blaze",
         "position": "K",
-        "rating": 89
-      },
-      {
-        "name": "Riley Knight",
-        "position": "RB",
-        "rating": 69
-      }
-    ]
-  },
-  {
-    "teamName": "Stone Hawks",
-    "abbreviation": "T17",
-    "players": [
-      {
-        "name": "Chris Hawk",
-        "position": "DL",
-        "rating": 78
-      },
-      {
-        "name": "Taylor Knight",
-        "position": "QB",
-        "rating": 86
-      },
-      {
-        "name": "Dana Frost",
-        "position": "TE",
-        "rating": 72
-      },
-      {
-        "name": "Casey Swift",
-        "position": "LB",
-        "rating": 86
-      },
-      {
-        "name": "Morgan Vance",
-        "position": "DL",
-        "rating": 81
-      },
-      {
-        "name": "Riley Knight",
-        "position": "TE",
-        "rating": 89
-      },
-      {
-        "name": "Alex Wilder",
-        "position": "WR",
-        "rating": 79
-      },
-      {
-        "name": "Riley Knight",
-        "position": "TE",
-        "rating": 76
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "S",
-        "rating": 71
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "WR",
-        "rating": 95
-      },
-      {
-        "name": "Quinn Vance",
-        "position": "K",
-        "rating": 74
-      },
-      {
-        "name": "Quinn Knight",
-        "position": "K",
-        "rating": 66
-      },
-      {
-        "name": "Quinn Frost",
-        "position": "RB",
-        "rating": 88
-      },
-      {
-        "name": "Chris Frost",
-        "position": "CB",
-        "rating": 93
-      },
-      {
-        "name": "Taylor Frost",
-        "position": "K",
-        "rating": 71
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "CB",
-        "rating": 80
-      },
-      {
-        "name": "Dana Knight",
-        "position": "QB",
-        "rating": 81
-      },
-      {
-        "name": "Casey Ridge",
-        "position": "TE",
-        "rating": 93
-      },
-      {
-        "name": "Quinn Frost",
-        "position": "WR",
-        "rating": 86
-      },
-      {
-        "name": "Jamie Frost",
-        "position": "OL",
-        "rating": 88
-      }
-    ]
-  },
-  {
-    "teamName": "Stone Rockets",
-    "abbreviation": "T18",
-    "players": [
-      {
-        "name": "Morgan Blaze",
-        "position": "QB",
-        "rating": 74
-      },
-      {
-        "name": "Chris Stone",
-        "position": "K",
-        "rating": 74
-      },
-      {
-        "name": "Dana Stone",
-        "position": "LB",
-        "rating": 94
-      },
-      {
-        "name": "Dana Ridge",
-        "position": "LB",
-        "rating": 75
-      },
-      {
-        "name": "Jordan Wilder",
-        "position": "LB",
-        "rating": 71
-      },
-      {
-        "name": "Riley Wilder",
-        "position": "LB",
         "rating": 77
       },
       {
         "name": "Jamie Stone",
         "position": "WR",
-        "rating": 86
+        "rating": 81
       },
       {
-        "name": "Chris Storm",
-        "position": "OL",
-        "rating": 83
-      },
-      {
-        "name": "Riley Knight",
-        "position": "LB",
-        "rating": 77
-      },
-      {
-        "name": "Casey Ridge",
-        "position": "TE",
-        "rating": 85
-      },
-      {
-        "name": "Morgan Blaze",
-        "position": "LB",
-        "rating": 70
-      },
-      {
-        "name": "Riley Wilder",
-        "position": "WR",
+        "name": "Jamie Frost",
+        "position": "S",
         "rating": 80
       },
       {
-        "name": "Alex Ridge",
-        "position": "DL",
-        "rating": 68
+        "name": "Morgan Knight",
+        "position": "CB",
+        "rating": 66
       },
       {
-        "name": "Casey Vance",
+        "name": "Casey Stone",
+        "position": "TE",
+        "rating": 69
+      },
+      {
+        "name": "Riley Storm",
+        "position": "TE",
+        "rating": 69
+      },
+      {
+        "name": "Jordan Vance",
+        "position": "LB",
+        "rating": 97
+      },
+      {
+        "name": "Jordan Vance",
+        "position": "WR",
+        "rating": 74
+      },
+      {
+        "name": "Jamie Vance",
         "position": "K",
+        "rating": 85
+      },
+      {
+        "name": "Morgan Vance",
+        "position": "DL",
+        "rating": 80
+      },
+      {
+        "name": "Jamie Stone",
+        "position": "RB",
+        "rating": 66
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "K",
+        "rating": 83
+      },
+      {
+        "name": "Chris Storm",
+        "position": "CB",
+        "rating": 78
+      },
+      {
+        "name": "Riley Swift",
+        "position": "QB",
+        "rating": 91
+      },
+      {
+        "name": "Morgan Ridge",
+        "position": "DL",
+        "rating": 86
+      },
+      {
+        "name": "Riley Stone",
+        "position": "CB",
+        "rating": 79
+      },
+      {
+        "name": "Riley Vance",
+        "position": "WR",
+        "rating": 87
+      },
+      {
+        "name": "Jamie Blaze",
+        "position": "WR",
+        "rating": 96
+      },
+      {
+        "name": "Chris Storm",
+        "position": "QB",
+        "rating": 83
+      },
+      {
+        "name": "Quinn Wilder",
+        "position": "WR",
+        "rating": 99
+      }
+    ]
+  },
+  {
+    "teamName": "Wilder Wolves",
+    "abbreviation": "T13",
+    "players": [
+      {
+        "name": "Jamie Swift",
+        "position": "WR",
         "rating": 65
       },
       {
-        "name": "Alex Knight",
+        "name": "Riley Frost",
+        "position": "CB",
+        "rating": 76
+      },
+      {
+        "name": "Alex Frost",
+        "position": "TE",
+        "rating": 87
+      },
+      {
+        "name": "Casey Vance",
+        "position": "WR",
+        "rating": 86
+      },
+      {
+        "name": "Chris Hawk",
+        "position": "OL",
+        "rating": 84
+      },
+      {
+        "name": "Jamie Ridge",
+        "position": "TE",
+        "rating": 70
+      },
+      {
+        "name": "Quinn Blaze",
+        "position": "DL",
+        "rating": 75
+      },
+      {
+        "name": "Dana Ridge",
+        "position": "LB",
+        "rating": 91
+      },
+      {
+        "name": "Jordan Swift",
+        "position": "QB",
+        "rating": 85
+      },
+      {
+        "name": "Quinn Hawk",
+        "position": "S",
+        "rating": 75
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "DL",
+        "rating": 75
+      },
+      {
+        "name": "Jamie Vance",
         "position": "K",
         "rating": 89
       },
       {
-        "name": "Jamie Swift",
-        "position": "RB",
-        "rating": 95
-      },
-      {
-        "name": "Riley Storm",
-        "position": "WR",
+        "name": "Taylor Stone",
+        "position": "QB",
         "rating": 74
       },
       {
         "name": "Dana Vance",
-        "position": "DL",
-        "rating": 73
-      },
-      {
-        "name": "Casey Swift",
-        "position": "TE",
-        "rating": 89
-      },
-      {
-        "name": "Chris Wilder",
-        "position": "S",
-        "rating": 87
-      }
-    ]
-  },
-  {
-    "teamName": "Ridge Rockets",
-    "abbreviation": "T19",
-    "players": [
-      {
-        "name": "Morgan Vance",
-        "position": "K",
-        "rating": 91
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "WR",
-        "rating": 86
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "OL",
-        "rating": 81
-      },
-      {
-        "name": "Casey Wilder",
-        "position": "TE",
-        "rating": 91
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "S",
-        "rating": 71
-      },
-      {
-        "name": "Chris Wilder",
-        "position": "RB",
-        "rating": 79
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "WR",
-        "rating": 86
-      },
-      {
-        "name": "Casey Frost",
         "position": "LB",
-        "rating": 77
-      },
-      {
-        "name": "Jordan Blaze",
-        "position": "K",
-        "rating": 94
-      },
-      {
-        "name": "Alex Swift",
-        "position": "OL",
-        "rating": 70
-      },
-      {
-        "name": "Morgan Knight",
-        "position": "K",
-        "rating": 74
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "CB",
-        "rating": 79
-      },
-      {
-        "name": "Dana Storm",
-        "position": "CB",
-        "rating": 86
-      },
-      {
-        "name": "Casey Storm",
-        "position": "WR",
-        "rating": 95
-      },
-      {
-        "name": "Taylor Vance",
-        "position": "K",
-        "rating": 69
-      },
-      {
-        "name": "Casey Frost",
-        "position": "TE",
-        "rating": 71
-      },
-      {
-        "name": "Casey Frost",
-        "position": "CB",
-        "rating": 95
-      },
-      {
-        "name": "Jamie Blaze",
-        "position": "LB",
-        "rating": 93
-      },
-      {
-        "name": "Chris Storm",
-        "position": "S",
-        "rating": 65
-      },
-      {
-        "name": "Taylor Blaze",
-        "position": "LB",
-        "rating": 88
-      }
-    ]
-  },
-  {
-    "teamName": "Ridge Rockets",
-    "abbreviation": "T20",
-    "players": [
-      {
-        "name": "Jordan Vance",
-        "position": "LB",
-        "rating": 95
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "S",
-        "rating": 90
-      },
-      {
-        "name": "Jordan Ridge",
-        "position": "LB",
-        "rating": 82
-      },
-      {
-        "name": "Riley Blaze",
-        "position": "RB",
-        "rating": 81
-      },
-      {
-        "name": "Quinn Ridge",
-        "position": "K",
         "rating": 72
       },
       {
-        "name": "Jordan Wilder",
-        "position": "DL",
-        "rating": 87
-      },
-      {
-        "name": "Jamie Ridge",
+        "name": "Taylor Swift",
         "position": "WR",
-        "rating": 94
+        "rating": 95
       },
       {
-        "name": "Quinn Blaze",
+        "name": "Jamie Frost",
+        "position": "WR",
+        "rating": 70
+      },
+      {
+        "name": "Casey Stone",
+        "position": "DL",
+        "rating": 75
+      },
+      {
+        "name": "Taylor Hawk",
         "position": "TE",
         "rating": 81
       },
       {
-        "name": "Casey Wilder",
-        "position": "RB",
-        "rating": 83
+        "name": "Dana Blaze",
+        "position": "QB",
+        "rating": 78
       },
       {
-        "name": "Jordan Swift",
-        "position": "S",
-        "rating": 92
+        "name": "Alex Wilder",
+        "position": "LB",
+        "rating": 90
+      }
+    ]
+  },
+  {
+    "teamName": "Stone Wolves",
+    "abbreviation": "T14",
+    "players": [
+      {
+        "name": "Casey Ridge",
+        "position": "QB",
+        "rating": 72
       },
       {
         "name": "Taylor Storm",
         "position": "S",
-        "rating": 76
+        "rating": 67
       },
       {
-        "name": "Chris Ridge",
+        "name": "Morgan Vance",
+        "position": "CB",
+        "rating": 86
+      },
+      {
+        "name": "Riley Frost",
+        "position": "CB",
+        "rating": 70
+      },
+      {
+        "name": "Chris Storm",
+        "position": "RB",
+        "rating": 79
+      },
+      {
+        "name": "Chris Hawk",
+        "position": "DL",
+        "rating": 75
+      },
+      {
+        "name": "Jordan Blaze",
+        "position": "WR",
+        "rating": 71
+      },
+      {
+        "name": "Dana Ridge",
+        "position": "QB",
+        "rating": 69
+      },
+      {
+        "name": "Casey Hawk",
+        "position": "QB",
+        "rating": 96
+      },
+      {
+        "name": "Alex Stone",
+        "position": "DL",
+        "rating": 81
+      },
+      {
+        "name": "Taylor Blaze",
+        "position": "K",
+        "rating": 77
+      },
+      {
+        "name": "Riley Stone",
+        "position": "OL",
+        "rating": 93
+      },
+      {
+        "name": "Taylor Stone",
+        "position": "CB",
+        "rating": 89
+      },
+      {
+        "name": "Dana Knight",
+        "position": "OL",
+        "rating": 90
+      },
+      {
+        "name": "Taylor Blaze",
+        "position": "QB",
+        "rating": 91
+      },
+      {
+        "name": "Alex Frost",
+        "position": "TE",
+        "rating": 72
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "WR",
+        "rating": 94
+      },
+      {
+        "name": "Casey Knight",
+        "position": "WR",
+        "rating": 97
+      },
+      {
+        "name": "Jordan Knight",
+        "position": "K",
+        "rating": 91
+      },
+      {
+        "name": "Jamie Blaze",
+        "position": "S",
+        "rating": 73
+      }
+    ]
+  },
+  {
+    "teamName": "Swift Rockets",
+    "abbreviation": "T15",
+    "players": [
+      {
+        "name": "Chris Knight",
+        "position": "WR",
+        "rating": 67
+      },
+      {
+        "name": "Alex Ridge",
+        "position": "TE",
+        "rating": 70
+      },
+      {
+        "name": "Chris Storm",
+        "position": "OL",
+        "rating": 84
+      },
+      {
+        "name": "Riley Knight",
+        "position": "RB",
+        "rating": 69
+      },
+      {
+        "name": "Alex Hawk",
+        "position": "RB",
+        "rating": 69
+      },
+      {
+        "name": "Quinn Ridge",
+        "position": "S",
+        "rating": 73
+      },
+      {
+        "name": "Taylor Stone",
+        "position": "OL",
+        "rating": 75
+      },
+      {
+        "name": "Riley Frost",
+        "position": "K",
+        "rating": 99
+      },
+      {
+        "name": "Alex Swift",
+        "position": "OL",
+        "rating": 81
+      },
+      {
+        "name": "Alex Knight",
         "position": "LB",
         "rating": 88
       },
       {
-        "name": "Dana Frost",
-        "position": "QB",
-        "rating": 89
-      },
-      {
-        "name": "Jordan Storm",
-        "position": "S",
-        "rating": 66
-      },
-      {
-        "name": "Chris Blaze",
-        "position": "OL",
+        "name": "Taylor Stone",
+        "position": "LB",
         "rating": 68
       },
       {
-        "name": "Jordan Vance",
-        "position": "TE",
-        "rating": 78
+        "name": "Riley Storm",
+        "position": "DL",
+        "rating": 97
       },
       {
-        "name": "Jordan Wilder",
-        "position": "TE",
-        "rating": 76
+        "name": "Jordan Ridge",
+        "position": "S",
+        "rating": 83
       },
       {
-        "name": "Casey Wilder",
+        "name": "Jamie Frost",
+        "position": "DL",
+        "rating": 65
+      },
+      {
+        "name": "Jamie Frost",
         "position": "CB",
-        "rating": 95
+        "rating": 99
       },
       {
-        "name": "Alex Storm",
-        "position": "QB",
-        "rating": 94
+        "name": "Dana Blaze",
+        "position": "OL",
+        "rating": 69
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "RB",
+        "rating": 73
+      },
+      {
+        "name": "Casey Stone",
+        "position": "WR",
+        "rating": 99
       },
       {
         "name": "Jordan Stone",
         "position": "S",
-        "rating": 71
+        "rating": 78
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "DL",
+        "rating": 70
       }
     ]
   },
   {
-    "teamName": "Hawk Hawks",
-    "abbreviation": "T21",
+    "teamName": "Frost Titans",
+    "abbreviation": "T16",
     "players": [
       {
-        "name": "Chris Frost",
-        "position": "RB",
-        "rating": 86
+        "name": "Morgan Wilder",
+        "position": "K",
+        "rating": 73
       },
       {
-        "name": "Jamie Ridge",
-        "position": "LB",
-        "rating": 80
-      },
-      {
-        "name": "Chris Hawk",
-        "position": "TE",
-        "rating": 75
-      },
-      {
-        "name": "Quinn Vance",
-        "position": "DL",
-        "rating": 93
-      },
-      {
-        "name": "Riley Swift",
+        "name": "Casey Storm",
         "position": "OL",
-        "rating": 85
-      },
-      {
-        "name": "Taylor Stone",
-        "position": "OL",
-        "rating": 75
-      },
-      {
-        "name": "Riley Wilder",
-        "position": "RB",
-        "rating": 86
-      },
-      {
-        "name": "Alex Swift",
-        "position": "LB",
         "rating": 78
       },
       {
-        "name": "Chris Vance",
-        "position": "S",
-        "rating": 75
+        "name": "Alex Frost",
+        "position": "QB",
+        "rating": 98
       },
       {
-        "name": "Quinn Blaze",
-        "position": "LB",
+        "name": "Taylor Vance",
+        "position": "TE",
+        "rating": 85
+      },
+      {
+        "name": "Taylor Vance",
+        "position": "RB",
+        "rating": 78
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "K",
+        "rating": 76
+      },
+      {
+        "name": "Jamie Blaze",
+        "position": "WR",
         "rating": 84
       },
       {
-        "name": "Quinn Knight",
-        "position": "QB",
-        "rating": 66
-      },
-      {
-        "name": "Casey Blaze",
+        "name": "Jordan Wilder",
         "position": "WR",
-        "rating": 89
+        "rating": 71
       },
       {
-        "name": "Jamie Frost",
-        "position": "CB",
-        "rating": 88
+        "name": "Casey Vance",
+        "position": "QB",
+        "rating": 79
       },
       {
-        "name": "Jamie Storm",
+        "name": "Chris Storm",
         "position": "TE",
         "rating": 87
       },
       {
-        "name": "Taylor Wilder",
-        "position": "CB",
-        "rating": 67
-      },
-      {
-        "name": "Quinn Blaze",
+        "name": "Alex Knight",
         "position": "OL",
-        "rating": 76
+        "rating": 82
       },
       {
-        "name": "Taylor Swift",
+        "name": "Morgan Swift",
         "position": "TE",
-        "rating": 95
+        "rating": 80
       },
       {
-        "name": "Chris Frost",
+        "name": "Jordan Blaze",
+        "position": "DL",
+        "rating": 66
+      },
+      {
+        "name": "Jamie Hawk",
+        "position": "DL",
+        "rating": 96
+      },
+      {
+        "name": "Riley Ridge",
+        "position": "CB",
+        "rating": 78
+      },
+      {
+        "name": "Morgan Blaze",
+        "position": "LB",
+        "rating": 88
+      },
+      {
+        "name": "Morgan Swift",
         "position": "S",
-        "rating": 91
-      },
-      {
-        "name": "Morgan Hawk",
-        "position": "TE",
         "rating": 93
       },
       {
-        "name": "Riley Wilder",
-        "position": "K",
-        "rating": 95
+        "name": "Dana Wilder",
+        "position": "WR",
+        "rating": 82
+      },
+      {
+        "name": "Alex Wilder",
+        "position": "LB",
+        "rating": 81
+      },
+      {
+        "name": "Quinn Stone",
+        "position": "OL",
+        "rating": 98
       }
     ]
   },
   {
     "teamName": "Vance Cyclones",
-    "abbreviation": "T22",
+    "abbreviation": "T17",
     "players": [
       {
-        "name": "Quinn Frost",
+        "name": "Dana Frost",
+        "position": "WR",
+        "rating": 84
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "WR",
+        "rating": 90
+      },
+      {
+        "name": "Jordan Vance",
+        "position": "QB",
+        "rating": 82
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "K",
+        "rating": 88
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "RB",
+        "rating": 73
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "CB",
+        "rating": 74
+      },
+      {
+        "name": "Dana Knight",
+        "position": "QB",
+        "rating": 69
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "RB",
+        "rating": 79
+      },
+      {
+        "name": "Dana Swift",
+        "position": "S",
+        "rating": 80
+      },
+      {
+        "name": "Chris Wilder",
+        "position": "CB",
+        "rating": 80
+      },
+      {
+        "name": "Taylor Frost",
+        "position": "S",
+        "rating": 96
+      },
+      {
+        "name": "Quinn Hawk",
+        "position": "LB",
+        "rating": 81
+      },
+      {
+        "name": "Chris Wilder",
+        "position": "DL",
+        "rating": 68
+      },
+      {
+        "name": "Casey Frost",
+        "position": "WR",
+        "rating": 97
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "CB",
+        "rating": 84
+      },
+      {
+        "name": "Jamie Knight",
+        "position": "LB",
+        "rating": 91
+      },
+      {
+        "name": "Alex Vance",
         "position": "TE",
+        "rating": 92
+      },
+      {
+        "name": "Chris Wilder",
+        "position": "QB",
+        "rating": 86
+      },
+      {
+        "name": "Chris Vance",
+        "position": "DL",
+        "rating": 72
+      },
+      {
+        "name": "Dana Vance",
+        "position": "S",
+        "rating": 71
+      }
+    ]
+  },
+  {
+    "teamName": "Blaze Wolves",
+    "abbreviation": "T18",
+    "players": [
+      {
+        "name": "Alex Blaze",
+        "position": "DL",
+        "rating": 81
+      },
+      {
+        "name": "Taylor Knight",
+        "position": "S",
+        "rating": 65
+      },
+      {
+        "name": "Morgan Ridge",
+        "position": "WR",
+        "rating": 94
+      },
+      {
+        "name": "Jordan Ridge",
+        "position": "OL",
         "rating": 70
       },
       {
         "name": "Taylor Ridge",
         "position": "LB",
-        "rating": 84
-      },
-      {
-        "name": "Taylor Wilder",
-        "position": "CB",
-        "rating": 86
-      },
-      {
-        "name": "Casey Knight",
-        "position": "DL",
-        "rating": 83
-      },
-      {
-        "name": "Dana Frost",
-        "position": "QB",
-        "rating": 87
-      },
-      {
-        "name": "Dana Storm",
-        "position": "LB",
         "rating": 77
       },
       {
-        "name": "Morgan Vance",
+        "name": "Quinn Stone",
         "position": "QB",
-        "rating": 80
-      },
-      {
-        "name": "Jordan Wilder",
-        "position": "OL",
-        "rating": 82
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "TE",
         "rating": 92
       },
       {
-        "name": "Taylor Stone",
-        "position": "K",
-        "rating": 95
-      },
-      {
-        "name": "Jordan Frost",
-        "position": "CB",
-        "rating": 84
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "RB",
-        "rating": 81
-      },
-      {
-        "name": "Casey Ridge",
+        "name": "Taylor Storm",
         "position": "WR",
+        "rating": 97
+      },
+      {
+        "name": "Alex Hawk",
+        "position": "S",
+        "rating": 79
+      },
+      {
+        "name": "Quinn Storm",
+        "position": "OL",
         "rating": 91
       },
       {
-        "name": "Morgan Stone",
-        "position": "OL",
+        "name": "Alex Swift",
+        "position": "S",
         "rating": 72
       },
       {
-        "name": "Quinn Frost",
-        "position": "TE",
-        "rating": 93
+        "name": "Morgan Storm",
+        "position": "CB",
+        "rating": 78
       },
       {
-        "name": "Riley Vance",
-        "position": "CB",
+        "name": "Chris Storm",
+        "position": "OL",
+        "rating": 89
+      },
+      {
+        "name": "Jamie Hawk",
+        "position": "QB",
+        "rating": 97
+      },
+      {
+        "name": "Taylor Knight",
+        "position": "LB",
+        "rating": 69
+      },
+      {
+        "name": "Dana Wilder",
+        "position": "K",
+        "rating": 71
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "S",
+        "rating": 67
+      },
+      {
+        "name": "Morgan Hawk",
+        "position": "RB",
+        "rating": 78
+      },
+      {
+        "name": "Alex Frost",
+        "position": "TE",
+        "rating": 87
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "LB",
         "rating": 84
       },
       {
-        "name": "Chris Wilder",
+        "name": "Riley Storm",
         "position": "QB",
         "rating": 91
+      }
+    ]
+  },
+  {
+    "teamName": "Frost Wolves",
+    "abbreviation": "T19",
+    "players": [
+      {
+        "name": "Chris Stone",
+        "position": "TE",
+        "rating": 68
+      },
+      {
+        "name": "Taylor Storm",
+        "position": "S",
+        "rating": 90
+      },
+      {
+        "name": "Taylor Knight",
+        "position": "K",
+        "rating": 98
+      },
+      {
+        "name": "Quinn Ridge",
+        "position": "QB",
+        "rating": 90
+      },
+      {
+        "name": "Chris Ridge",
+        "position": "QB",
+        "rating": 88
+      },
+      {
+        "name": "Morgan Blaze",
+        "position": "TE",
+        "rating": 80
+      },
+      {
+        "name": "Chris Ridge",
+        "position": "CB",
+        "rating": 77
       },
       {
         "name": "Casey Storm",
         "position": "LB",
-        "rating": 93
+        "rating": 71
       },
       {
-        "name": "Dana Storm",
-        "position": "LB",
+        "name": "Quinn Vance",
+        "position": "QB",
         "rating": 82
       },
       {
-        "name": "Casey Knight",
+        "name": "Chris Hawk",
+        "position": "DL",
+        "rating": 98
+      },
+      {
+        "name": "Morgan Storm",
+        "position": "QB",
+        "rating": 81
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "K",
+        "rating": 84
+      },
+      {
+        "name": "Casey Swift",
+        "position": "CB",
+        "rating": 91
+      },
+      {
+        "name": "Alex Blaze",
+        "position": "CB",
+        "rating": 98
+      },
+      {
+        "name": "Taylor Storm",
+        "position": "OL",
+        "rating": 84
+      },
+      {
+        "name": "Quinn Hawk",
+        "position": "WR",
+        "rating": 88
+      },
+      {
+        "name": "Chris Frost",
+        "position": "DL",
+        "rating": 82
+      },
+      {
+        "name": "Alex Vance",
+        "position": "LB",
+        "rating": 70
+      },
+      {
+        "name": "Jamie Swift",
+        "position": "WR",
+        "rating": 79
+      },
+      {
+        "name": "Casey Frost",
+        "position": "WR",
+        "rating": 71
+      }
+    ]
+  },
+  {
+    "teamName": "Swift Rockets",
+    "abbreviation": "T20",
+    "players": [
+      {
+        "name": "Chris Ridge",
+        "position": "RB",
+        "rating": 83
+      },
+      {
+        "name": "Riley Hawk",
+        "position": "K",
+        "rating": 73
+      },
+      {
+        "name": "Casey Swift",
+        "position": "CB",
+        "rating": 99
+      },
+      {
+        "name": "Riley Swift",
+        "position": "TE",
+        "rating": 80
+      },
+      {
+        "name": "Taylor Stone",
+        "position": "K",
+        "rating": 76
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "DL",
+        "rating": 88
+      },
+      {
+        "name": "Riley Stone",
+        "position": "RB",
+        "rating": 91
+      },
+      {
+        "name": "Taylor Knight",
+        "position": "OL",
+        "rating": 69
+      },
+      {
+        "name": "Morgan Swift",
         "position": "S",
+        "rating": 75
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "CB",
+        "rating": 81
+      },
+      {
+        "name": "Morgan Storm",
+        "position": "WR",
+        "rating": 91
+      },
+      {
+        "name": "Dana Knight",
+        "position": "S",
+        "rating": 99
+      },
+      {
+        "name": "Morgan Wilder",
+        "position": "OL",
+        "rating": 74
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "CB",
+        "rating": 72
+      },
+      {
+        "name": "Jordan Ridge",
+        "position": "K",
+        "rating": 93
+      },
+      {
+        "name": "Chris Vance",
+        "position": "K",
+        "rating": 80
+      },
+      {
+        "name": "Chris Frost",
+        "position": "DL",
+        "rating": 88
+      },
+      {
+        "name": "Quinn Wilder",
+        "position": "OL",
+        "rating": 89
+      },
+      {
+        "name": "Riley Blaze",
+        "position": "WR",
+        "rating": 72
+      },
+      {
+        "name": "Morgan Swift",
+        "position": "LB",
+        "rating": 86
+      }
+    ]
+  },
+  {
+    "teamName": "Hawk Rockets",
+    "abbreviation": "T21",
+    "players": [
+      {
+        "name": "Morgan Storm",
+        "position": "CB",
+        "rating": 75
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "DL",
+        "rating": 73
+      },
+      {
+        "name": "Quinn Frost",
+        "position": "WR",
+        "rating": 98
+      },
+      {
+        "name": "Chris Hawk",
+        "position": "OL",
+        "rating": 66
+      },
+      {
+        "name": "Morgan Storm",
+        "position": "CB",
+        "rating": 69
+      },
+      {
+        "name": "Taylor Knight",
+        "position": "WR",
+        "rating": 77
+      },
+      {
+        "name": "Alex Knight",
+        "position": "LB",
+        "rating": 98
+      },
+      {
+        "name": "Morgan Vance",
+        "position": "TE",
+        "rating": 68
+      },
+      {
+        "name": "Morgan Ridge",
+        "position": "WR",
+        "rating": 97
+      },
+      {
+        "name": "Dana Ridge",
+        "position": "S",
+        "rating": 75
+      },
+      {
+        "name": "Alex Blaze",
+        "position": "S",
+        "rating": 90
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "WR",
+        "rating": 73
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "RB",
+        "rating": 71
+      },
+      {
+        "name": "Chris Blaze",
+        "position": "K",
+        "rating": 97
+      },
+      {
+        "name": "Taylor Hawk",
+        "position": "CB",
+        "rating": 68
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "K",
+        "rating": 68
+      },
+      {
+        "name": "Alex Vance",
+        "position": "LB",
+        "rating": 74
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "S",
+        "rating": 94
+      },
+      {
+        "name": "Riley Vance",
+        "position": "DL",
+        "rating": 98
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "OL",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "teamName": "Vance Rockets",
+    "abbreviation": "T22",
+    "players": [
+      {
+        "name": "Morgan Blaze",
+        "position": "RB",
+        "rating": 73
+      },
+      {
+        "name": "Taylor Stone",
+        "position": "K",
+        "rating": 80
+      },
+      {
+        "name": "Chris Blaze",
+        "position": "CB",
+        "rating": 94
+      },
+      {
+        "name": "Riley Stone",
+        "position": "LB",
+        "rating": 74
+      },
+      {
+        "name": "Jordan Ridge",
+        "position": "CB",
+        "rating": 96
+      },
+      {
+        "name": "Riley Swift",
+        "position": "LB",
+        "rating": 99
+      },
+      {
+        "name": "Dana Frost",
+        "position": "TE",
+        "rating": 72
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "QB",
+        "rating": 71
+      },
+      {
+        "name": "Jordan Vance",
+        "position": "K",
+        "rating": 71
+      },
+      {
+        "name": "Quinn Ridge",
+        "position": "K",
+        "rating": 81
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "CB",
+        "rating": 75
+      },
+      {
+        "name": "Jordan Wilder",
+        "position": "DL",
+        "rating": 78
+      },
+      {
+        "name": "Casey Stone",
+        "position": "S",
+        "rating": 92
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "DL",
+        "rating": 90
+      },
+      {
+        "name": "Morgan Frost",
+        "position": "RB",
+        "rating": 80
+      },
+      {
+        "name": "Alex Ridge",
+        "position": "LB",
+        "rating": 74
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "DL",
+        "rating": 94
+      },
+      {
+        "name": "Taylor Hawk",
+        "position": "RB",
+        "rating": 97
+      },
+      {
+        "name": "Jordan Swift",
+        "position": "K",
+        "rating": 98
+      },
+      {
+        "name": "Morgan Hawk",
+        "position": "WR",
+        "rating": 87
+      }
+    ]
+  },
+  {
+    "teamName": "Knight Hawks",
+    "abbreviation": "T23",
+    "players": [
+      {
+        "name": "Riley Vance",
+        "position": "QB",
+        "rating": 93
+      },
+      {
+        "name": "Quinn Wilder",
+        "position": "LB",
+        "rating": 95
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "DL",
+        "rating": 74
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "RB",
+        "rating": 99
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "K",
+        "rating": 79
+      },
+      {
+        "name": "Riley Blaze",
+        "position": "WR",
+        "rating": 84
+      },
+      {
+        "name": "Dana Knight",
+        "position": "RB",
+        "rating": 78
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "K",
+        "rating": 77
+      },
+      {
+        "name": "Quinn Knight",
+        "position": "DL",
+        "rating": 88
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "LB",
+        "rating": 94
+      },
+      {
+        "name": "Taylor Stone",
+        "position": "K",
+        "rating": 99
+      },
+      {
+        "name": "Morgan Hawk",
+        "position": "QB",
+        "rating": 99
+      },
+      {
+        "name": "Riley Stone",
+        "position": "TE",
+        "rating": 78
+      },
+      {
+        "name": "Taylor Ridge",
+        "position": "LB",
+        "rating": 70
+      },
+      {
+        "name": "Dana Storm",
+        "position": "WR",
+        "rating": 86
+      },
+      {
+        "name": "Jamie Hawk",
+        "position": "OL",
+        "rating": 66
+      },
+      {
+        "name": "Riley Vance",
+        "position": "CB",
+        "rating": 83
+      },
+      {
+        "name": "Dana Hawk",
+        "position": "RB",
+        "rating": 94
+      },
+      {
+        "name": "Chris Ridge",
+        "position": "DL",
+        "rating": 87
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "RB",
+        "rating": 86
+      }
+    ]
+  },
+  {
+    "teamName": "Vance Titans",
+    "abbreviation": "T24",
+    "players": [
+      {
+        "name": "Taylor Ridge",
+        "position": "OL",
+        "rating": 69
+      },
+      {
+        "name": "Casey Vance",
+        "position": "QB",
+        "rating": 87
+      },
+      {
+        "name": "Casey Knight",
+        "position": "TE",
+        "rating": 70
+      },
+      {
+        "name": "Morgan Vance",
+        "position": "QB",
+        "rating": 96
+      },
+      {
+        "name": "Casey Wilder",
+        "position": "QB",
+        "rating": 66
+      },
+      {
+        "name": "Quinn Storm",
+        "position": "RB",
+        "rating": 90
+      },
+      {
+        "name": "Jordan Hawk",
+        "position": "S",
+        "rating": 80
+      },
+      {
+        "name": "Jordan Hawk",
+        "position": "TE",
+        "rating": 73
+      },
+      {
+        "name": "Casey Blaze",
+        "position": "TE",
+        "rating": 66
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "S",
+        "rating": 84
+      },
+      {
+        "name": "Taylor Hawk",
+        "position": "WR",
+        "rating": 97
+      },
+      {
+        "name": "Quinn Storm",
+        "position": "WR",
+        "rating": 98
+      },
+      {
+        "name": "Morgan Swift",
+        "position": "DL",
+        "rating": 67
+      },
+      {
+        "name": "Chris Swift",
+        "position": "K",
+        "rating": 88
+      },
+      {
+        "name": "Taylor Swift",
+        "position": "S",
+        "rating": 77
+      },
+      {
+        "name": "Jamie Knight",
+        "position": "CB",
+        "rating": 78
+      },
+      {
+        "name": "Riley Wilder",
+        "position": "RB",
+        "rating": 77
+      },
+      {
+        "name": "Chris Stone",
+        "position": "OL",
+        "rating": 73
+      },
+      {
+        "name": "Jordan Knight",
+        "position": "S",
+        "rating": 65
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "RB",
         "rating": 69
       }
     ]
   },
   {
-    "teamName": "Ridge Rockets",
-    "abbreviation": "T23",
+    "teamName": "Vance Hawks",
+    "abbreviation": "T25",
     "players": [
       {
-        "name": "Taylor Frost",
+        "name": "Alex Storm",
+        "position": "LB",
+        "rating": 85
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "S",
+        "rating": 81
+      },
+      {
+        "name": "Alex Frost",
+        "position": "OL",
+        "rating": 90
+      },
+      {
+        "name": "Jamie Wilder",
+        "position": "RB",
+        "rating": 94
+      },
+      {
+        "name": "Morgan Blaze",
+        "position": "TE",
+        "rating": 75
+      },
+      {
+        "name": "Dana Knight",
+        "position": "LB",
+        "rating": 69
+      },
+      {
+        "name": "Jamie Blaze",
+        "position": "CB",
+        "rating": 71
+      },
+      {
+        "name": "Alex Hawk",
+        "position": "RB",
+        "rating": 70
+      },
+      {
+        "name": "Riley Stone",
         "position": "RB",
         "rating": 74
       },
       {
-        "name": "Chris Hawk",
+        "name": "Taylor Knight",
         "position": "WR",
-        "rating": 84
+        "rating": 96
       },
       {
-        "name": "Riley Knight",
-        "position": "LB",
-        "rating": 88
-      },
-      {
-        "name": "Riley Frost",
-        "position": "LB",
-        "rating": 92
-      },
-      {
-        "name": "Jamie Ridge",
+        "name": "Quinn Vance",
         "position": "S",
-        "rating": 79
+        "rating": 68
       },
       {
-        "name": "Morgan Vance",
-        "position": "K",
+        "name": "Dana Vance",
+        "position": "RB",
         "rating": 95
       },
       {
-        "name": "Alex Knight",
+        "name": "Casey Ridge",
+        "position": "K",
+        "rating": 70
+      },
+      {
+        "name": "Jamie Swift",
+        "position": "S",
+        "rating": 66
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "WR",
+        "rating": 76
+      },
+      {
+        "name": "Jordan Vance",
+        "position": "QB",
+        "rating": 88
+      },
+      {
+        "name": "Chris Swift",
+        "position": "RB",
+        "rating": 85
+      },
+      {
+        "name": "Riley Knight",
+        "position": "WR",
+        "rating": 75
+      },
+      {
+        "name": "Chris Stone",
         "position": "RB",
         "rating": 72
       },
       {
-        "name": "Riley Blaze",
-        "position": "LB",
+        "name": "Taylor Stone",
+        "position": "CB",
+        "rating": 73
+      }
+    ]
+  },
+  {
+    "teamName": "Swift Rockets",
+    "abbreviation": "T26",
+    "players": [
+      {
+        "name": "Morgan Frost",
+        "position": "DL",
+        "rating": 72
+      },
+      {
+        "name": "Jordan Hawk",
+        "position": "OL",
         "rating": 79
       },
       {
-        "name": "Jamie Frost",
-        "position": "K",
-        "rating": 77
+        "name": "Casey Wilder",
+        "position": "OL",
+        "rating": 79
       },
       {
-        "name": "Chris Hawk",
-        "position": "K",
+        "name": "Jordan Blaze",
+        "position": "WR",
+        "rating": 70
+      },
+      {
+        "name": "Casey Vance",
+        "position": "S",
+        "rating": 96
+      },
+      {
+        "name": "Taylor Frost",
+        "position": "S",
+        "rating": 72
+      },
+      {
+        "name": "Casey Frost",
+        "position": "LB",
         "rating": 93
+      },
+      {
+        "name": "Casey Wilder",
+        "position": "QB",
+        "rating": 70
+      },
+      {
+        "name": "Alex Frost",
+        "position": "S",
+        "rating": 98
       },
       {
         "name": "Jordan Wilder",
         "position": "DL",
+        "rating": 89
+      },
+      {
+        "name": "Jamie Swift",
+        "position": "QB",
+        "rating": 82
+      },
+      {
+        "name": "Morgan Hawk",
+        "position": "TE",
+        "rating": 97
+      },
+      {
+        "name": "Jordan Blaze",
+        "position": "RB",
+        "rating": 89
+      },
+      {
+        "name": "Chris Ridge",
+        "position": "LB",
+        "rating": 88
+      },
+      {
+        "name": "Alex Vance",
+        "position": "K",
+        "rating": 97
+      },
+      {
+        "name": "Taylor Blaze",
+        "position": "TE",
+        "rating": 97
+      },
+      {
+        "name": "Jamie Storm",
+        "position": "QB",
+        "rating": 73
+      },
+      {
+        "name": "Jamie Ridge",
+        "position": "CB",
         "rating": 67
       },
       {
-        "name": "Chris Storm",
-        "position": "DL",
-        "rating": 93
-      },
-      {
-        "name": "Casey Frost",
-        "position": "K",
-        "rating": 90
-      },
-      {
-        "name": "Alex Frost",
-        "position": "RB",
-        "rating": 74
+        "name": "Chris Stone",
+        "position": "QB",
+        "rating": 77
       },
       {
         "name": "Dana Hawk",
         "position": "DL",
-        "rating": 81
-      },
+        "rating": 91
+      }
+    ]
+  },
+  {
+    "teamName": "Vance Titans",
+    "abbreviation": "T27",
+    "players": [
       {
-        "name": "Alex Stone",
+        "name": "Morgan Vance",
         "position": "LB",
-        "rating": 66
+        "rating": 90
       },
       {
-        "name": "Jamie Knight",
-        "position": "OL",
+        "name": "Quinn Stone",
+        "position": "QB",
+        "rating": 86
+      },
+      {
+        "name": "Chris Wilder",
+        "position": "QB",
+        "rating": 73
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "QB",
         "rating": 91
       },
       {
-        "name": "Riley Ridge",
+        "name": "Alex Storm",
+        "position": "QB",
+        "rating": 89
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "WR",
+        "rating": 86
+      },
+      {
+        "name": "Taylor Vance",
+        "position": "TE",
+        "rating": 74
+      },
+      {
+        "name": "Quinn Frost",
+        "position": "TE",
+        "rating": 67
+      },
+      {
+        "name": "Jamie Storm",
+        "position": "LB",
+        "rating": 74
+      },
+      {
+        "name": "Quinn Stone",
+        "position": "S",
+        "rating": 71
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "QB",
+        "rating": 89
+      },
+      {
+        "name": "Dana Swift",
+        "position": "LB",
+        "rating": 90
+      },
+      {
+        "name": "Morgan Ridge",
+        "position": "QB",
+        "rating": 71
+      },
+      {
+        "name": "Jordan Blaze",
+        "position": "WR",
+        "rating": 85
+      },
+      {
+        "name": "Quinn Vance",
+        "position": "LB",
+        "rating": 85
+      },
+      {
+        "name": "Taylor Ridge",
+        "position": "LB",
+        "rating": 71
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "WR",
+        "rating": 80
+      },
+      {
+        "name": "Quinn Frost",
+        "position": "S",
+        "rating": 94
+      },
+      {
+        "name": "Alex Hawk",
+        "position": "RB",
+        "rating": 97
+      },
+      {
+        "name": "Casey Storm",
+        "position": "S",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "teamName": "Frost Rockets",
+    "abbreviation": "T28",
+    "players": [
+      {
+        "name": "Chris Swift",
+        "position": "DL",
+        "rating": 72
+      },
+      {
+        "name": "Casey Hawk",
+        "position": "RB",
+        "rating": 92
+      },
+      {
+        "name": "Jamie Knight",
+        "position": "RB",
+        "rating": 81
+      },
+      {
+        "name": "Jamie Vance",
+        "position": "QB",
+        "rating": 72
+      },
+      {
+        "name": "Morgan Stone",
+        "position": "TE",
+        "rating": 92
+      },
+      {
+        "name": "Jordan Wilder",
+        "position": "OL",
+        "rating": 78
+      },
+      {
+        "name": "Morgan Wilder",
+        "position": "LB",
+        "rating": 68
+      },
+      {
+        "name": "Jamie Stone",
+        "position": "QB",
+        "rating": 93
+      },
+      {
+        "name": "Casey Swift",
+        "position": "RB",
+        "rating": 80
+      },
+      {
+        "name": "Dana Ridge",
+        "position": "RB",
+        "rating": 97
+      },
+      {
+        "name": "Quinn Blaze",
+        "position": "S",
+        "rating": 66
+      },
+      {
+        "name": "Chris Hawk",
+        "position": "DL",
+        "rating": 79
+      },
+      {
+        "name": "Quinn Blaze",
+        "position": "K",
+        "rating": 65
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "K",
+        "rating": 96
+      },
+      {
+        "name": "Dana Swift",
+        "position": "OL",
+        "rating": 73
+      },
+      {
+        "name": "Dana Vance",
+        "position": "RB",
+        "rating": 89
+      },
+      {
+        "name": "Quinn Swift",
         "position": "LB",
         "rating": 89
       },
       {
-        "name": "Morgan Swift",
-        "position": "K",
-        "rating": 83
+        "name": "Jamie Swift",
+        "position": "DL",
+        "rating": 96
       },
       {
-        "name": "Riley Swift",
-        "position": "LB",
+        "name": "Quinn Ridge",
+        "position": "K",
+        "rating": 71
+      },
+      {
+        "name": "Morgan Storm",
+        "position": "K",
         "rating": 72
       }
     ]
   },
   {
     "teamName": "Wilder Cyclones",
-    "abbreviation": "T24",
+    "abbreviation": "T29",
     "players": [
       {
-        "name": "Chris Blaze",
-        "position": "LB",
-        "rating": 71
+        "name": "Dana Swift",
+        "position": "S",
+        "rating": 65
       },
       {
-        "name": "Morgan Vance",
+        "name": "Quinn Wilder",
+        "position": "CB",
+        "rating": 66
+      },
+      {
+        "name": "Quinn Vance",
+        "position": "RB",
+        "rating": 75
+      },
+      {
+        "name": "Chris Stone",
+        "position": "S",
+        "rating": 98
+      },
+      {
+        "name": "Quinn Storm",
+        "position": "TE",
+        "rating": 72
+      },
+      {
+        "name": "Morgan Wilder",
         "position": "QB",
-        "rating": 78
-      },
-      {
-        "name": "Taylor Stone",
-        "position": "OL",
-        "rating": 87
-      },
-      {
-        "name": "Quinn Swift",
-        "position": "DL",
         "rating": 83
       },
       {
-        "name": "Jordan Wilder",
-        "position": "OL",
-        "rating": 70
+        "name": "Dana Hawk",
+        "position": "CB",
+        "rating": 79
       },
       {
-        "name": "Alex Hawk",
-        "position": "K",
-        "rating": 69
+        "name": "Casey Swift",
+        "position": "LB",
+        "rating": 94
       },
       {
-        "name": "Jamie Blaze",
-        "position": "DL",
-        "rating": 74
+        "name": "Jamie Wilder",
+        "position": "WR",
+        "rating": 65
       },
       {
-        "name": "Jamie Blaze",
+        "name": "Dana Storm",
         "position": "QB",
-        "rating": 67
+        "rating": 76
+      },
+      {
+        "name": "Casey Hawk",
+        "position": "S",
+        "rating": 98
+      },
+      {
+        "name": "Quinn Wilder",
+        "position": "LB",
+        "rating": 72
       },
       {
         "name": "Jordan Frost",
         "position": "CB",
-        "rating": 67
+        "rating": 69
       },
       {
-        "name": "Dana Knight",
-        "position": "OL",
-        "rating": 75
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "S",
-        "rating": 83
-      },
-      {
-        "name": "Quinn Hawk",
-        "position": "WR",
-        "rating": 67
-      },
-      {
-        "name": "Morgan Vance",
-        "position": "TE",
-        "rating": 70
-      },
-      {
-        "name": "Jordan Ridge",
-        "position": "QB",
-        "rating": 75
-      },
-      {
-        "name": "Jamie Stone",
-        "position": "TE",
-        "rating": 95
-      },
-      {
-        "name": "Taylor Vance",
-        "position": "QB",
-        "rating": 65
-      },
-      {
-        "name": "Quinn Swift",
-        "position": "QB",
-        "rating": 94
-      },
-      {
-        "name": "Quinn Blaze",
+        "name": "Casey Frost",
         "position": "DL",
-        "rating": 89
+        "rating": 77
       },
       {
         "name": "Riley Knight",
-        "position": "RB",
-        "rating": 88
+        "position": "CB",
+        "rating": 69
       },
       {
-        "name": "Quinn Vance",
+        "name": "Riley Vance",
         "position": "DL",
-        "rating": 88
+        "rating": 70
+      },
+      {
+        "name": "Morgan Hawk",
+        "position": "OL",
+        "rating": 95
+      },
+      {
+        "name": "Riley Ridge",
+        "position": "DL",
+        "rating": 84
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "S",
+        "rating": 65
+      },
+      {
+        "name": "Quinn Stone",
+        "position": "RB",
+        "rating": 71
       }
     ]
   },
   {
     "teamName": "Frost Wolves",
-    "abbreviation": "T25",
+    "abbreviation": "T30",
     "players": [
       {
-        "name": "Jordan Frost",
-        "position": "K",
-        "rating": 76
-      },
-      {
-        "name": "Chris Stone",
-        "position": "S",
-        "rating": 70
-      },
-      {
-        "name": "Dana Swift",
-        "position": "TE",
-        "rating": 91
-      },
-      {
-        "name": "Jordan Stone",
-        "position": "TE",
-        "rating": 92
-      },
-      {
-        "name": "Morgan Ridge",
-        "position": "CB",
-        "rating": 73
-      },
-      {
-        "name": "Dana Hawk",
-        "position": "S",
-        "rating": 70
-      },
-      {
-        "name": "Morgan Ridge",
+        "name": "Casey Frost",
         "position": "LB",
-        "rating": 83
+        "rating": 77
       },
       {
-        "name": "Alex Storm",
+        "name": "Jamie Hawk",
+        "position": "OL",
+        "rating": 97
+      },
+      {
+        "name": "Dana Frost",
         "position": "DL",
-        "rating": 84
+        "rating": 71
       },
       {
-        "name": "Casey Wilder",
-        "position": "LB",
-        "rating": 67
-      },
-      {
-        "name": "Casey Swift",
-        "position": "K",
-        "rating": 69
-      },
-      {
-        "name": "Morgan Wilder",
-        "position": "WR",
-        "rating": 87
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "QB",
-        "rating": 81
-      },
-      {
-        "name": "Alex Knight",
-        "position": "LB",
-        "rating": 66
-      },
-      {
-        "name": "Chris Swift",
+        "name": "Morgan Frost",
         "position": "RB",
-        "rating": 79
-      },
-      {
-        "name": "Dana Wilder",
-        "position": "LB",
-        "rating": 94
-      },
-      {
-        "name": "Alex Vance",
-        "position": "RB",
-        "rating": 79
-      },
-      {
-        "name": "Riley Frost",
-        "position": "RB",
-        "rating": 86
-      },
-      {
-        "name": "Casey Vance",
-        "position": "WR",
         "rating": 75
       },
       {
-        "name": "Riley Knight",
-        "position": "QB",
+        "name": "Jamie Ridge",
+        "position": "CB",
+        "rating": 90
+      },
+      {
+        "name": "Taylor Wilder",
+        "position": "WR",
+        "rating": 93
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "RB",
         "rating": 95
       },
       {
-        "name": "Dana Ridge",
-        "position": "K",
+        "name": "Jordan Hawk",
+        "position": "RB",
         "rating": 67
-      }
-    ]
-  },
-  {
-    "teamName": "Storm Rockets",
-    "abbreviation": "T26",
-    "players": [
-      {
-        "name": "Taylor Blaze",
-        "position": "CB",
-        "rating": 88
       },
       {
-        "name": "Alex Vance",
-        "position": "OL",
-        "rating": 90
+        "name": "Taylor Swift",
+        "position": "CB",
+        "rating": 70
+      },
+      {
+        "name": "Chris Knight",
+        "position": "TE",
+        "rating": 96
+      },
+      {
+        "name": "Jamie Blaze",
+        "position": "RB",
+        "rating": 74
+      },
+      {
+        "name": "Chris Stone",
+        "position": "RB",
+        "rating": 68
+      },
+      {
+        "name": "Dana Hawk",
+        "position": "RB",
+        "rating": 65
+      },
+      {
+        "name": "Quinn Swift",
+        "position": "QB",
+        "rating": 74
+      },
+      {
+        "name": "Dana Swift",
+        "position": "RB",
+        "rating": 68
+      },
+      {
+        "name": "Dana Vance",
+        "position": "LB",
+        "rating": 73
+      },
+      {
+        "name": "Alex Wilder",
+        "position": "RB",
+        "rating": 94
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "LB",
+        "rating": 93
       },
       {
         "name": "Taylor Frost",
         "position": "DL",
-        "rating": 89
+        "rating": 80
       },
       {
-        "name": "Alex Hawk",
-        "position": "QB",
-        "rating": 95
+        "name": "Jamie Hawk",
+        "position": "LB",
+        "rating": 86
+      }
+    ]
+  },
+  {
+    "teamName": "Vance Wolves",
+    "abbreviation": "T31",
+    "players": [
+      {
+        "name": "Dana Stone",
+        "position": "LB",
+        "rating": 97
       },
       {
-        "name": "Morgan Hawk",
-        "position": "DL",
-        "rating": 76
-      },
-      {
-        "name": "Riley Vance",
-        "position": "S",
-        "rating": 93
-      },
-      {
-        "name": "Riley Vance",
+        "name": "Morgan Storm",
         "position": "K",
         "rating": 88
       },
       {
-        "name": "Alex Blaze",
-        "position": "LB",
-        "rating": 82
+        "name": "Alex Ridge",
+        "position": "CB",
+        "rating": 67
       },
       {
-        "name": "Alex Frost",
+        "name": "Casey Vance",
         "position": "WR",
-        "rating": 83
+        "rating": 88
       },
       {
-        "name": "Riley Stone",
-        "position": "WR",
-        "rating": 93
-      },
-      {
-        "name": "Jordan Frost",
-        "position": "WR",
-        "rating": 66
-      },
-      {
-        "name": "Chris Vance",
-        "position": "TE",
-        "rating": 81
-      },
-      {
-        "name": "Morgan Storm",
+        "name": "Taylor Swift",
         "position": "S",
-        "rating": 75
+        "rating": 94
       },
       {
-        "name": "Morgan Frost",
-        "position": "DL",
-        "rating": 73
+        "name": "Jordan Blaze",
+        "position": "S",
+        "rating": 97
       },
       {
-        "name": "Taylor Hawk",
-        "position": "OL",
-        "rating": 78
+        "name": "Dana Frost",
+        "position": "K",
+        "rating": 98
       },
       {
-        "name": "Chris Vance",
-        "position": "DL",
-        "rating": 91
+        "name": "Morgan Blaze",
+        "position": "WR",
+        "rating": 89
       },
       {
-        "name": "Chris Ridge",
-        "position": "QB",
+        "name": "Jordan Blaze",
+        "position": "CB",
+        "rating": 80
+      },
+      {
+        "name": "Jordan Blaze",
+        "position": "S",
+        "rating": 86
+      },
+      {
+        "name": "Casey Swift",
+        "position": "TE",
         "rating": 90
       },
       {
-        "name": "Casey Blaze",
+        "name": "Taylor Blaze",
+        "position": "K",
+        "rating": 74
+      },
+      {
+        "name": "Alex Vance",
         "position": "OL",
+        "rating": 88
+      },
+      {
+        "name": "Jamie Frost",
+        "position": "TE",
+        "rating": 99
+      },
+      {
+        "name": "Casey Vance",
+        "position": "OL",
+        "rating": 75
+      },
+      {
+        "name": "Jamie Blaze",
+        "position": "RB",
+        "rating": 76
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "WR",
+        "rating": 70
+      },
+      {
+        "name": "Casey Hawk",
+        "position": "QB",
+        "rating": 70
+      },
+      {
+        "name": "Morgan Wilder",
+        "position": "RB",
+        "rating": 70
+      },
+      {
+        "name": "Jamie Hawk",
+        "position": "OL",
+        "rating": 96
+      }
+    ]
+  },
+  {
+    "teamName": "Wilder Hawks",
+    "abbreviation": "T32",
+    "players": [
+      {
+        "name": "Quinn Vance",
+        "position": "DL",
+        "rating": 75
+      },
+      {
+        "name": "Taylor Ridge",
+        "position": "OL",
+        "rating": 77
+      },
+      {
+        "name": "Taylor Storm",
+        "position": "CB",
+        "rating": 92
+      },
+      {
+        "name": "Casey Frost",
+        "position": "OL",
+        "rating": 84
+      },
+      {
+        "name": "Taylor Hawk",
+        "position": "TE",
+        "rating": 67
+      },
+      {
+        "name": "Riley Vance",
+        "position": "LB",
         "rating": 89
       },
       {
         "name": "Jamie Frost",
-        "position": "CB",
-        "rating": 72
-      },
-      {
-        "name": "Taylor Frost",
-        "position": "OL",
-        "rating": 66
-      }
-    ]
-  },
-  {
-    "teamName": "Stone Rockets",
-    "abbreviation": "T27",
-    "players": [
-      {
-        "name": "Chris Swift",
-        "position": "TE",
-        "rating": 89
-      },
-      {
-        "name": "Jamie Knight",
         "position": "K",
-        "rating": 88
-      },
-      {
-        "name": "Jordan Frost",
-        "position": "TE",
-        "rating": 94
-      },
-      {
-        "name": "Riley Knight",
-        "position": "RB",
-        "rating": 74
-      },
-      {
-        "name": "Chris Knight",
-        "position": "LB",
-        "rating": 76
-      },
-      {
-        "name": "Dana Storm",
-        "position": "K",
-        "rating": 89
-      },
-      {
-        "name": "Riley Frost",
-        "position": "OL",
-        "rating": 94
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "OL",
-        "rating": 84
-      },
-      {
-        "name": "Quinn Knight",
-        "position": "DL",
-        "rating": 68
-      },
-      {
-        "name": "Jamie Stone",
-        "position": "LB",
-        "rating": 80
-      },
-      {
-        "name": "Alex Swift",
-        "position": "S",
-        "rating": 90
-      },
-      {
-        "name": "Dana Storm",
-        "position": "RB",
         "rating": 69
-      },
-      {
-        "name": "Dana Swift",
-        "position": "DL",
-        "rating": 95
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "RB",
-        "rating": 89
-      },
-      {
-        "name": "Chris Frost",
-        "position": "CB",
-        "rating": 74
-      },
-      {
-        "name": "Casey Storm",
-        "position": "LB",
-        "rating": 93
-      },
-      {
-        "name": "Alex Stone",
-        "position": "QB",
-        "rating": 88
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "DL",
-        "rating": 85
-      },
-      {
-        "name": "Dana Frost",
-        "position": "OL",
-        "rating": 71
-      },
-      {
-        "name": "Quinn Swift",
-        "position": "RB",
-        "rating": 84
-      }
-    ]
-  },
-  {
-    "teamName": "Swift Cyclones",
-    "abbreviation": "T28",
-    "players": [
-      {
-        "name": "Riley Storm",
-        "position": "TE",
-        "rating": 92
-      },
-      {
-        "name": "Dana Frost",
-        "position": "K",
-        "rating": 88
-      },
-      {
-        "name": "Casey Swift",
-        "position": "DL",
-        "rating": 78
-      },
-      {
-        "name": "Dana Knight",
-        "position": "TE",
-        "rating": 76
-      },
-      {
-        "name": "Morgan Wilder",
-        "position": "TE",
-        "rating": 93
-      },
-      {
-        "name": "Jamie Knight",
-        "position": "WR",
-        "rating": 65
-      },
-      {
-        "name": "Chris Swift",
-        "position": "OL",
-        "rating": 68
-      },
-      {
-        "name": "Chris Ridge",
-        "position": "CB",
-        "rating": 68
-      },
-      {
-        "name": "Casey Blaze",
-        "position": "QB",
-        "rating": 87
-      },
-      {
-        "name": "Jordan Ridge",
-        "position": "DL",
-        "rating": 89
-      },
-      {
-        "name": "Jamie Stone",
-        "position": "LB",
-        "rating": 82
-      },
-      {
-        "name": "Casey Wilder",
-        "position": "CB",
-        "rating": 82
-      },
-      {
-        "name": "Riley Frost",
-        "position": "QB",
-        "rating": 84
-      },
-      {
-        "name": "Jordan Blaze",
-        "position": "DL",
-        "rating": 71
-      },
-      {
-        "name": "Riley Blaze",
-        "position": "LB",
-        "rating": 68
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "OL",
-        "rating": 83
-      },
-      {
-        "name": "Casey Swift",
-        "position": "RB",
-        "rating": 65
-      },
-      {
-        "name": "Dana Ridge",
-        "position": "LB",
-        "rating": 80
-      },
-      {
-        "name": "Chris Vance",
-        "position": "WR",
-        "rating": 90
-      },
-      {
-        "name": "Alex Swift",
-        "position": "LB",
-        "rating": 83
-      }
-    ]
-  },
-  {
-    "teamName": "Vance Rockets",
-    "abbreviation": "T29",
-    "players": [
-      {
-        "name": "Chris Storm",
-        "position": "CB",
-        "rating": 74
-      },
-      {
-        "name": "Riley Knight",
-        "position": "TE",
-        "rating": 93
-      },
-      {
-        "name": "Dana Ridge",
-        "position": "S",
-        "rating": 79
-      },
-      {
-        "name": "Alex Ridge",
-        "position": "DL",
-        "rating": 78
-      },
-      {
-        "name": "Dana Knight",
-        "position": "K",
-        "rating": 83
-      },
-      {
-        "name": "Jamie Hawk",
-        "position": "WR",
-        "rating": 68
-      },
-      {
-        "name": "Alex Knight",
-        "position": "TE",
-        "rating": 69
-      },
-      {
-        "name": "Quinn Stone",
-        "position": "LB",
-        "rating": 89
-      },
-      {
-        "name": "Dana Wilder",
-        "position": "LB",
-        "rating": 80
-      },
-      {
-        "name": "Alex Frost",
-        "position": "QB",
-        "rating": 90
-      },
-      {
-        "name": "Riley Wilder",
-        "position": "LB",
-        "rating": 84
-      },
-      {
-        "name": "Quinn Wilder",
-        "position": "WR",
-        "rating": 84
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "K",
-        "rating": 82
-      },
-      {
-        "name": "Dana Stone",
-        "position": "DL",
-        "rating": 66
-      },
-      {
-        "name": "Riley Frost",
-        "position": "WR",
-        "rating": 75
-      },
-      {
-        "name": "Riley Frost",
-        "position": "K",
-        "rating": 84
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "TE",
-        "rating": 94
-      },
-      {
-        "name": "Jamie Stone",
-        "position": "OL",
-        "rating": 74
-      },
-      {
-        "name": "Riley Vance",
-        "position": "OL",
-        "rating": 73
-      },
-      {
-        "name": "Quinn Blaze",
-        "position": "K",
-        "rating": 78
-      }
-    ]
-  },
-  {
-    "teamName": "Frost Cyclones",
-    "abbreviation": "T30",
-    "players": [
-      {
-        "name": "Dana Frost",
-        "position": "QB",
-        "rating": 73
-      },
-      {
-        "name": "Jordan Stone",
-        "position": "RB",
-        "rating": 90
-      },
-      {
-        "name": "Morgan Vance",
-        "position": "QB",
-        "rating": 85
-      },
-      {
-        "name": "Morgan Wilder",
-        "position": "TE",
-        "rating": 65
-      },
-      {
-        "name": "Jordan Vance",
-        "position": "S",
-        "rating": 77
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "OL",
-        "rating": 76
-      },
-      {
-        "name": "Quinn Wilder",
-        "position": "TE",
-        "rating": 69
-      },
-      {
-        "name": "Alex Hawk",
-        "position": "S",
-        "rating": 95
-      },
-      {
-        "name": "Morgan Blaze",
-        "position": "WR",
-        "rating": 66
-      },
-      {
-        "name": "Dana Stone",
-        "position": "TE",
-        "rating": 73
-      },
-      {
-        "name": "Alex Frost",
-        "position": "RB",
-        "rating": 89
-      },
-      {
-        "name": "Casey Vance",
-        "position": "S",
-        "rating": 79
-      },
-      {
-        "name": "Dana Blaze",
-        "position": "OL",
-        "rating": 85
-      },
-      {
-        "name": "Morgan Hawk",
-        "position": "LB",
-        "rating": 68
-      },
-      {
-        "name": "Jamie Blaze",
-        "position": "K",
-        "rating": 79
-      },
-      {
-        "name": "Morgan Hawk",
-        "position": "CB",
-        "rating": 69
-      },
-      {
-        "name": "Taylor Stone",
-        "position": "QB",
-        "rating": 82
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "TE",
-        "rating": 83
-      },
-      {
-        "name": "Jordan Hawk",
-        "position": "LB",
-        "rating": 67
-      },
-      {
-        "name": "Morgan Wilder",
-        "position": "TE",
-        "rating": 94
-      }
-    ]
-  },
-  {
-    "teamName": "Ridge Rockets",
-    "abbreviation": "T31",
-    "players": [
-      {
-        "name": "Jamie Storm",
-        "position": "RB",
-        "rating": 89
-      },
-      {
-        "name": "Jordan Vance",
-        "position": "DL",
-        "rating": 93
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "OL",
-        "rating": 73
-      },
-      {
-        "name": "Quinn Ridge",
-        "position": "S",
-        "rating": 81
-      },
-      {
-        "name": "Jamie Wilder",
-        "position": "OL",
-        "rating": 69
-      },
-      {
-        "name": "Morgan Ridge",
-        "position": "OL",
-        "rating": 67
-      },
-      {
-        "name": "Chris Stone",
-        "position": "S",
-        "rating": 65
-      },
-      {
-        "name": "Jamie Swift",
-        "position": "RB",
-        "rating": 70
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "WR",
-        "rating": 83
       },
       {
         "name": "Taylor Swift",
-        "position": "LB",
-        "rating": 71
+        "position": "DL",
+        "rating": 76
       },
       {
-        "name": "Morgan Blaze",
-        "position": "S",
+        "name": "Jordan Knight",
+        "position": "WR",
         "rating": 78
       },
       {
-        "name": "Riley Vance",
-        "position": "DL",
-        "rating": 81
+        "name": "Casey Vance",
+        "position": "LB",
+        "rating": 91
       },
       {
-        "name": "Jamie Swift",
-        "position": "QB",
-        "rating": 95
+        "name": "Quinn Frost",
+        "position": "CB",
+        "rating": 84
       },
       {
-        "name": "Riley Vance",
-        "position": "WR",
-        "rating": 83
+        "name": "Quinn Vance",
+        "position": "TE",
+        "rating": 76
       },
       {
-        "name": "Quinn Stone",
+        "name": "Morgan Hawk",
         "position": "S",
         "rating": 82
       },
       {
-        "name": "Dana Wilder",
+        "name": "Dana Hawk",
         "position": "TE",
-        "rating": 95
-      },
-      {
-        "name": "Jamie Storm",
-        "position": "TE",
-        "rating": 65
-      },
-      {
-        "name": "Casey Blaze",
-        "position": "TE",
-        "rating": 78
-      },
-      {
-        "name": "Alex Stone",
-        "position": "K",
-        "rating": 93
-      },
-      {
-        "name": "Quinn Ridge",
-        "position": "QB",
-        "rating": 79
-      }
-    ]
-  },
-  {
-    "teamName": "Stone Titans",
-    "abbreviation": "T32",
-    "players": [
-      {
-        "name": "Quinn Knight",
-        "position": "DL",
-        "rating": 85
-      },
-      {
-        "name": "Morgan Storm",
-        "position": "WR",
-        "rating": 80
-      },
-      {
-        "name": "Alex Swift",
-        "position": "LB",
-        "rating": 66
-      },
-      {
-        "name": "Chris Swift",
-        "position": "QB",
-        "rating": 67
-      },
-      {
-        "name": "Casey Frost",
-        "position": "DL",
-        "rating": 90
-      },
-      {
-        "name": "Chris Stone",
-        "position": "LB",
-        "rating": 93
-      },
-      {
-        "name": "Jamie Blaze",
-        "position": "WR",
-        "rating": 93
-      },
-      {
-        "name": "Chris Blaze",
-        "position": "QB",
-        "rating": 92
-      },
-      {
-        "name": "Morgan Stone",
-        "position": "RB",
-        "rating": 85
-      },
-      {
-        "name": "Chris Storm",
-        "position": "S",
-        "rating": 76
-      },
-      {
-        "name": "Quinn Hawk",
-        "position": "CB",
-        "rating": 78
-      },
-      {
-        "name": "Alex Stone",
-        "position": "QB",
-        "rating": 86
-      },
-      {
-        "name": "Morgan Vance",
-        "position": "DL",
-        "rating": 83
-      },
-      {
-        "name": "Taylor Hawk",
-        "position": "TE",
-        "rating": 93
-      },
-      {
-        "name": "Jamie Ridge",
-        "position": "OL",
-        "rating": 76
-      },
-      {
-        "name": "Dana Storm",
-        "position": "CB",
-        "rating": 67
-      },
-      {
-        "name": "Dana Ridge",
-        "position": "DL",
-        "rating": 87
-      },
-      {
-        "name": "Quinn Knight",
-        "position": "QB",
-        "rating": 72
-      },
-      {
-        "name": "Alex Frost",
-        "position": "OL",
-        "rating": 80
+        "rating": 74
       },
       {
         "name": "Alex Hawk",
-        "position": "S",
-        "rating": 68
+        "position": "K",
+        "rating": 66
+      },
+      {
+        "name": "Morgan Knight",
+        "position": "WR",
+        "rating": 90
+      },
+      {
+        "name": "Jamie Stone",
+        "position": "TE",
+        "rating": 94
+      },
+      {
+        "name": "Jordan Stone",
+        "position": "WR",
+        "rating": 92
+      },
+      {
+        "name": "Morgan Vance",
+        "position": "OL",
+        "rating": 72
+      },
+      {
+        "name": "Jordan Storm",
+        "position": "TE",
+        "rating": 84
       }
     ]
   }
